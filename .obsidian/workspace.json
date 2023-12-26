@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "1c88056a3bed8ce5",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac01499d0e73dded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6adedc6de3e2cd00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f109d2e61e7d7e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Todo/Todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e5c9842cea90d2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ea8e8cde9a38c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a48ea2d4f9234a7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "4e77924046e51838",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cffd9aa30c2d219f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6ff2a45a63512b5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "28b9a19e215cf491",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73deea73a49ee1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "720a723f004e939e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Todo/Todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c188ccd4385a7a2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_Todo/Todo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d38d87383da704fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_Todo/Todo.md"
+              }
+            }
+          },
+          {
+            "id": "0374600d81f198b5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:명령어 팔레트 열기": false,
+      "switcher:퀵 스위처 열기": true,
+      "daily-notes:오늘의 데일리 노트 열기": true,
+      "templates:템플릿 삽입": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0a48ea2d4f9234a7",
+  "lastOpenFiles": [
+    "01_Todo/Todo.md",
+    "03_career/이력서/2023년_1분기_PDF.pdf",
+    "03_career/이력서/2023년 1분기.md",
+    "03_career/면접복기/(주) 포비즈코리아.md",
+    "03_career/이력서",
+    "03_career/면접복기",
+    "03_career",
+    "02_developer/jQuery/[jQuery] 빈 칸 확인 시 trim() 사용.md",
+    "02_developer/jQuery/[jQuery] slide 메소드 사용 시 자식요소가 보이지 않을 때.md",
+    "02_developer/jQuery/[jQuery] serializeObject 커스텀 함수.md",
+    "02_developer/jQuery/[jQuery] not으로 특정 선택자만 제외하기.md",
+    "02_developer/jQuery/[jQuery] is로 tag와 class 존재여부 확인.md",
+    "02_developer/jQuery/[jQuery]  attr()과 prop()의 차이.md",
+    "02_developer/Vue/[Vue] 커스텀 hook 생성.md",
+    "02_developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
+    "02_developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+    "02_developer/Vue/[Vue] watch의 추가옵션.md",
+    "02_developer/Vue/[Vue] watch.md",
+    "02_developer/Vue/[Vue] vite build 시 디버그 옵션 추가.md",
+    "02_developer/Vue/[Vue] v-model.md",
+    "02_developer/Vue/[Vue] slot.md",
+    "02_developer/Vue/[Vue] shallowRef.md",
+    "02_developer/Vue/[Vue] script setup환경에서 window와 document를 찾지 못하는 이유.md",
+    "02_developer/Vue/[Vue] ref.md",
+    "02_developer/Vue/[Vue] reactive.md",
+    "02_developer/Vue/[Vue] nextTick.md",
+    "02_developer/Vue/[Vue] markRaw.md",
+    "02_developer/Vue/[Vue] keep-alive의 속성.md",
+    "02_developer/Vue/[Vue] keep-alive.md",
+    "02_developer/Vue/[Vue] computed.md",
+    "02_developer/jQuery",
+    "02_developer/Vue",
+    "02_developer/TS",
+    "02_developer/JS",
+    "02_developer/IDE",
+    "02_developer/HTML",
+    "00_hahm/assets/wallpaper/saturn.png",
+    "00_hahm/assets/wallpaper/ㄴaturn.png",
+    "00_hahm/assets/wallpaper/토성.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/system/system.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/seller/seller.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/promotion/promotion.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/buyer/buyer.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.png",
+    "01_docs/java-metacommerce/04_BE/api_logic/order/order.png"
+  ]
+}

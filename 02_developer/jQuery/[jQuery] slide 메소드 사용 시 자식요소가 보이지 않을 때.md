@@ -1,0 +1,2 @@
+- overflow:hidden 확인
+- padding으로 공간확보해서 수정 가능

@@ -1,0 +1,15 @@
+{
+  "promptDelete": false,
+  "showIndentGuide": false,
+  "spellcheck": false,
+  "smartIndentList": true,
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "visible",
+  "defaultViewMode": "source",
+  "focusNewTab": true,
+  "livePreview": true,
+  "tabSize": 2
+}
