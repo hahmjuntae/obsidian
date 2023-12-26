@@ -112,5 +112,15 @@
       ],
       "key": "1"
     }
-  ]
+  ],
+  "table-editor-obsidian:table-control-bar": [],
+  "templater-obsidian:create-new-note-from-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }

@@ -11,48 +11,15 @@
             "id": "51435248552a7e50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b2922ea976984ecf",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "_template/test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "062a18c7dc7f724f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_template/test.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afd7d722da340d4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_daily/Journal/무제 파일.md",
+                "file": "_template/02_journal.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_daily/Journal/무제 파일.md",
+                "file": "_template/02_journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_daily/Journal/무제 파일.md",
+                "file": "_template/02_journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_daily/Journal/무제 파일.md"
+                "file": "_template/02_journal.md"
               }
             }
           },
@@ -187,16 +154,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a48ea2d4f9234a7",
+  "active": "51435248552a7e50",
   "lastOpenFiles": [
-    "01_daily/Todo.md",
     "01_daily/Journal/무제 파일.md",
+    "_template/02_journal.md",
     "_template/test.md",
-    "01_daily/Journal",
+    "_template/01_todo.md",
+    "_template/00_none.md",
+    "01_daily/Journal/무제 파일 1.md",
+    "01_daily/Journal/Untitled 1.md",
+    "_template/Untitled.md",
+    "_template/<% tp.file.creation_date(\"YYYY년 MMMM Do dddd\") %>.md",
+    "01_daily/Journal/Untitled.md",
+    "Untitled.md",
     "무제 파일.md",
+    "_template/99_troubleshooting.md",
+    "01_daily/Todo.md",
+    "01_daily/무제 파일.md",
+    "01_daily/Journal",
     "2023-12-26.md",
     "2023-12-28.md",
-    "_template/troubleshooting.md",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서/2023년 1분기.md",
     "03_career/면접복기/(주) 포비즈코리아.md",
@@ -210,16 +187,6 @@
     "02_developer/jQuery/[jQuery] is로 tag와 class 존재여부 확인.md",
     "02_developer/jQuery/[jQuery]  attr()과 prop()의 차이.md",
     "02_developer/Vue/[Vue] 커스텀 hook 생성.md",
-    "02_developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
-    "02_developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
-    "02_developer/Vue/[Vue] watch의 추가옵션.md",
-    "02_developer/Vue/[Vue] watch.md",
-    "02_developer/Vue/[Vue] vite build 시 디버그 옵션 추가.md",
-    "02_developer/Vue/[Vue] v-model.md",
-    "02_developer/Vue/[Vue] slot.md",
-    "02_developer/Vue/[Vue] shallowRef.md",
-    "02_developer/Vue/[Vue] script setup환경에서 window와 document를 찾지 못하는 이유.md",
-    "02_developer/Vue/[Vue] ref.md",
     "02_developer/jQuery",
     "02_developer/Vue",
     "02_developer/TS",
