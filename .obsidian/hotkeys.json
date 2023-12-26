@@ -122,5 +122,29 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file": []
+  "file-explorer:new-file": [],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ]
 }
