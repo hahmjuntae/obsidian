@@ -21,14 +21,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "_template/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "062a18c7dc7f724f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_template/test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afd7d722da340d4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_daily/Journal/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "01_daily/Journal/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "01_daily/Journal/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "01_daily/Journal/무제 파일.md"
               }
             }
           },
@@ -165,9 +189,14 @@
   },
   "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
-    "무제 파일.md",
+    "01_daily/Todo.md",
+    "01_daily/Journal/무제 파일.md",
     "_template/test.md",
-    "01_Todo/Todo.md",
+    "01_daily/Journal",
+    "무제 파일.md",
+    "2023-12-26.md",
+    "2023-12-28.md",
+    "_template/troubleshooting.md",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서/2023년 1분기.md",
     "03_career/면접복기/(주) 포비즈코리아.md",
@@ -191,16 +220,11 @@
     "02_developer/Vue/[Vue] shallowRef.md",
     "02_developer/Vue/[Vue] script setup환경에서 window와 document를 찾지 못하는 이유.md",
     "02_developer/Vue/[Vue] ref.md",
-    "02_developer/Vue/[Vue] reactive.md",
-    "02_developer/Vue/[Vue] nextTick.md",
-    "02_developer/Vue/[Vue] markRaw.md",
-    "02_developer/Vue/[Vue] keep-alive의 속성.md",
     "02_developer/jQuery",
     "02_developer/Vue",
     "02_developer/TS",
     "02_developer/JS",
     "02_developer/IDE",
-    "02_developer/HTML",
     "00_hahm/assets/wallpaper/saturn.png",
     "00_hahm/assets/wallpaper/ㄴaturn.png",
     "00_hahm/assets/wallpaper/토성.png",
