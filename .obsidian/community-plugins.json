@@ -4,7 +4,6 @@
   "dataview",
   "obsidian-full-calendar",
   "make-md",
-  "obsidian-sortable",
   "markdown-table-editor",
   "obsidian-style-settings",
   "obsidian-minimal-settings",
@@ -13,5 +12,6 @@
   "tistory",
   "table-editor-obsidian",
   "obsidian-icon-folder",
-  "obsidian-git"
+  "obsidian-git",
+  "templater-obsidian"
 ]
