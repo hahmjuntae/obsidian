@@ -1,13 +1,15 @@
 {
-  "accentColor": "",
+  "accentColor": "#9bb3bf",
   "interfaceFontFamily": "LINE Seed Sans KR",
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "LINE Seed Sans KR",
-  "translucency": false,
+  "translucency": true,
   "enabledCssSnippets": [
     "backlink-pane-large_size_font"
   ],
   "cssTheme": "Minimal",
   "theme": "moonstone",
-  "baseFontSize": 14
+  "baseFontSize": 14,
+  "showViewHeader": false,
+  "nativeMenus": true
 }

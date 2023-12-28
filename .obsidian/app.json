@@ -8,8 +8,11 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "propertiesInDocument": "visible",
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "focusNewTab": true,
   "livePreview": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "showLineNumber": true,
+  "readableLineLength": false,
+  "showInlineTitle": false
 }

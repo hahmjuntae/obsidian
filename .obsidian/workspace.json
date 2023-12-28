@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "077f25194ce2b37b",
+        "id": "fb0acd8b625ebe36",
         "type": "tabs",
         "children": [
           {
-            "id": "51435248552a7e50",
+            "id": "adac2789a68a48e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_daily/2023년 12월 27일 수요일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -66,14 +62,15 @@
             }
           },
           {
-            "id": "b6ff2a45a63512b5",
+            "id": "f67e70ca5c8e34e9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -93,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_daily/2023년 12월 27일 수요일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_daily/2023년 12월 27일 수요일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01_daily/2023년 12월 27일 수요일.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,27 +132,33 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:명령어 팔레트 열기": false,
       "switcher:퀵 스위처 열기": true,
       "daily-notes:오늘의 데일리 노트 열기": true,
-      "templates:템플릿 삽입": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
+      "templates:템플릿 삽입": true,
+      "obsidian-full-calendar:Open Full Calendar": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian42-brat:BRAT": false,
+      "obsidian42-brat:BRAT": true,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
-  "active": "51435248552a7e50",
+  "active": "adac2789a68a48e3",
   "lastOpenFiles": [
-    "01_daily/무제 파일무제 파일 2.md",
-    "01_daily/2023년 12월 27일 수요일.md",
-    "_template/99_troubleshooting.md",
+    "01_daily/2023년 12월 27일.md",
+    "01_daily/ㅁ내야러매냘ㅇ.md",
+    "01_daily/Untitled.md",
     "_template/01_daily.md",
+    "01_daily/무제 파일.md",
+    "01_daily/2023년 12월 27일 수요일.md",
+    "01_daily/asdf.md",
+    "01_daily/무제 파일무제 파일 2.md",
+    "_template/99_troubleshooting.md",
     "_template/00_none.md",
     "_template/01_todo.md",
     "01_daily/Journal/2023년 12월 26일 화요일.md",
@@ -179,13 +178,9 @@
     "2023-12-28.md",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서/2023년 1분기.md",
-    "03_career/면접복기/(주) 포비즈코리아.md",
     "03_career/이력서",
     "03_career/면접복기",
     "03_career",
-    "02_developer/jQuery/[jQuery] 빈 칸 확인 시 trim() 사용.md",
-    "02_developer/jQuery/[jQuery] slide 메소드 사용 시 자식요소가 보이지 않을 때.md",
-    "02_developer/jQuery/[jQuery] serializeObject 커스텀 함수.md",
     "02_developer/jQuery",
     "02_developer/Vue",
     "02_developer/TS",

@@ -61,7 +61,7 @@
     "/",
     "spaces://$tags"
   ],
-  "spacesUseAlias": true,
+  "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
   "fmKeyColor": "color",
