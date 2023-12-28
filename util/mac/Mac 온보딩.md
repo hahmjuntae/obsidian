@@ -1,13 +1,14 @@
 ## Oracle Java JDK 설치
 ---
 ## Brew 설치
-### Formulae
+Formulae
 - git
 - docker
 - docker-completion
 - zsh-completions
 - tree
-### Casks
+
+Casks
 - warp
 - karabiner-elements
 - google-chrome
@@ -29,15 +30,16 @@
 - slack
 ---
 ## App 설치
-### Web
+Web
 - MSoffice365
-### AppStore
+
+AppStore
 - Amphetamine
 - Giphy Capture
 - Run Cat
 - 카카오톡
 ---
-##### Git 설정
+## Git 설정
 ```zsh
 # 계정 설정
 git config --global user.name juntaehahm
@@ -50,7 +52,7 @@ git config --global init.defaultBranch main
 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
 ```
 ---
-##### 알단테 설정
+## 알단테 설정
 1. 라이센스 활성화
 	ID: hahmjuntae@icloud.com
 	KEY: B8A4AAB7-33958C26-6D87E368-A9E1B4EE-56F488B0
@@ -63,14 +65,15 @@ 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
 	✅ 최대 온도 35도
 	✅ 통계 팝오버에 표시
 ---
-##### 개발환경 zsh설정
-
+## 개발환경 zsh설정
 - [https://hjm79.top/applesilicon-ventura-setting/#Dock](https://hjm79.top/applesilicon-ventura-setting/#Dock)
-
 - [https://yechan.blog/2](https://yechan.blog/2)
-
 - [https://yechan.blog/3](https://yechan.blog/3)
-
 - [https://yechan.blog/4](https://yechan.blog/4)
-
 - https://insapporo2016.tistory.com/214
+---
+## 독 최근항목 개수 설정
+```bash
+defaults write com.apple.dock show-recent-count -int 10
+killall Dock
+```

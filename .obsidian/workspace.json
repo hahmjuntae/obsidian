@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/JS/[JS] Tip.md",
+                "file": "util/mac/Mac 온보딩.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/JS/[JS] Tip.md",
+                "file": "util/mac/Mac 온보딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/JS/[JS] Tip.md",
+                "file": "util/mac/Mac 온보딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/JS/[JS] Tip.md"
+                "file": "util/mac/Mac 온보딩.md"
               }
             }
           },
