@@ -11,8 +11,12 @@
             "id": "adac2789a68a48e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "developer/JS/[JS] Tip.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "developer/JS/[JS] Tip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "developer/JS/[JS] Tip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "developer/JS/[JS] Tip.md"
+              }
             }
           },
           {
@@ -150,6 +157,7 @@
   },
   "active": "adac2789a68a48e3",
   "lastOpenFiles": [
+    "developer/JS/[JS] Tip.md",
     "_template/01_daily.md",
     "01_daily/2023년 12월 27일 수요일.md",
     "01_daily/2023년 12월 28일 목요일.md",
@@ -176,7 +184,6 @@
     "01_daily/Todo.md",
     "01_daily/Journal",
     "2023-12-26.md",
-    "2023-12-28.md",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서",
     "03_career/면접복기",
