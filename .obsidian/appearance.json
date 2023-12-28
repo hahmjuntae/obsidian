@@ -1,9 +1,9 @@
 {
-  "accentColor": "#9bb3bf",
+  "accentColor": "#000000",
   "interfaceFontFamily": "LINE Seed Sans KR",
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "LINE Seed Sans KR",
-  "translucency": true,
+  "translucency": false,
   "enabledCssSnippets": [
     "backlink-pane-large_size_font"
   ],

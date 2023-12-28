@@ -11,8 +11,12 @@
             "id": "adac2789a68a48e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_daily/2023년 12월 28일 목요일.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -69,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_daily/2023년 12월 28일 목요일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_daily/2023년 12월 28일 목요일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_daily/2023년 12월 28일 목요일.md"
+              }
             }
           },
           {
@@ -150,10 +157,12 @@
   },
   "active": "adac2789a68a48e3",
   "lastOpenFiles": [
+    "_template/01_daily.md",
+    "01_daily/2023년 12월 28일 목요일.md",
     "01_daily/2023년 12월 27일.md",
+    "무제 파일.md",
     "01_daily/ㅁ내야러매냘ㅇ.md",
     "01_daily/Untitled.md",
-    "_template/01_daily.md",
     "01_daily/무제 파일.md",
     "01_daily/2023년 12월 27일 수요일.md",
     "01_daily/asdf.md",
@@ -171,13 +180,11 @@
     "_template/<% tp.file.creation_date(\"YYYY년 MMMM Do dddd\") %>.md",
     "01_daily/Journal/Untitled.md",
     "Untitled.md",
-    "무제 파일.md",
     "01_daily/Todo.md",
     "01_daily/Journal",
     "2023-12-26.md",
     "2023-12-28.md",
     "03_career/이력서/2023년_1분기_PDF.pdf",
-    "03_career/이력서/2023년 1분기.md",
     "03_career/이력서",
     "03_career/면접복기",
     "03_career",
