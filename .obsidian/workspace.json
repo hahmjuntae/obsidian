@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb0acd8b625ebe36",
+        "id": "c6f656e09840839c",
         "type": "tabs",
         "children": [
           {
-            "id": "adac2789a68a48e3",
+            "id": "50b7eae40749603f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md",
-                "mode": "preview",
-                "source": false
+                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png"
               }
             }
           }
@@ -66,19 +64,18 @@
             }
           },
           {
-            "id": "d9d6dff6a3d24584",
+            "id": "f0e92bdb341b2fdf",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 222.5
   },
   "right": {
     "id": "28b9a19e215cf491",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md",
+                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md",
+                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md"
+                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png"
               }
             }
           },
@@ -154,8 +151,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "adac2789a68a48e3",
+  "active": "50b7eae40749603f",
   "lastOpenFiles": [
+    "assets/wallpaper/natalie-karpushenko_oceanbreath_DELL.png",
+    "assets/wallpaper/Horizon Table Raheeyoon 03.webp",
+    "assets/wallpaper/fbb046faf7af5d2fd8ea7a.webp",
+    "developer/Shell/[PowerShell] 확장자 일괄변경.md",
     "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "developer/Shell",
     "무제 폴더",
@@ -185,21 +186,18 @@
     "_template/99_troubleshooting.md",
     "_template/00_none.md",
     "_template",
-    "util/mac/Mac 온보딩.md",
     "01_daily/Journal",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서",
     "03_career/면접복기",
     "03_career",
-    "_util/wallpaper/saturn.png",
+    "assets/wallpaper/saturn.png",
     "00_hahm/assets/wallpaper/ㄴaturn.png",
     "00_hahm/assets/wallpaper/토성.png",
     "01_docs/java-metacommerce/04_BE/api_logic/system/system.png",
     "01_docs/java-metacommerce/04_BE/api_logic/seller/seller.png",
     "01_docs/java-metacommerce/04_BE/api_logic/promotion/promotion.png",
     "01_docs/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/buyer/buyer.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/order/order.png"
+    "01_docs/java-metacommerce/04_BE/api_logic/buyer/buyer.png"
   ]
 }
