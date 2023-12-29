@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "TiCode",
+      "SiFrontendmentor",
+      "SiStylelint",
+      "BoBxlCss3",
+      "TiBrandCss3"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -19,5 +25,28 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
-  }
+  },
+  "developer": {
+    "iconName": "RiMacbookLine",
+    "inheritanceIcon": "RiMacbookLine"
+  },
+  "_": "LiPalette",
+  "_/00_none.md": "IbDocument",
+  "_/99_troubleshooting.md": "LiRocket",
+  "developer/CSS": {
+    "iconName": "SiStylelint",
+    "inheritanceIcon": "BoBxlCss3"
+  },
+  "developer/CSS/[CSS] 이미지 종횡비 1대1로 맞추기.md": "SiStylelint",
+  "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md": "SiStylelint",
+  "developer/CSS/[CSS] calc에서 rem 사용.md": "SiStylelint",
+  "developer/CSS/[CSS] checkbox, radio checked 확인법.md": "SiStylelint",
+  "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md": "SiStylelint",
+  "developer/CSS/[CSS] Flex.md": "SiStylelint",
+  "developer/CSS/[CSS] flex 사용 시 자식 요소 줄어들 때.md": "SiStylelint",
+  "developer/CSS/[CSS] Flex shorthand.md": "SiStylelint",
+  "developer/FE": "TiCode",
+  "developer/FE/[FE] ESLint와 TSLint.md": "TiCode",
+  "developer/FE/[FE] Shadow DOM.md": "TiCode",
+  "developer/FE/[FE] SSR, CSR, Vue에서의 결합.md": "TiCode"
 }

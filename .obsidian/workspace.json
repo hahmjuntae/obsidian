@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7394e1625297932e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -58,6 +71,14 @@
             }
           },
           {
+            "id": "ba7bfae7f02362d0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "c7fd9d6f3fb8677b",
             "type": "leaf",
             "state": {
@@ -65,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md"
+                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md"
               }
             }
           },
@@ -143,18 +163,22 @@
       "templates:템플릿 삽입": true,
       "obsidian-full-calendar:Open Full Calendar": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "c7fd9d6f3fb8677b",
+  "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
-    "developer/CS/CS.md",
+    "developer/CSS/[CSS] calc에서 rem 사용.md",
+    "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
+    "developer/CSS/asdf.md",
+    "developer/HTTP/CS.md",
+    "developer/HTML/HTML.md",
+    "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+    "Vault.md",
     "developer/Windows/Windows.md",
     "developer/Windows",
-    "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
-    "developer/CS/[CS] HTTP 코드 정리.md",
+    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "developer/CSS/[CSS] checkbox, radio checked 확인법.md",
     "developer/IDE/[IDE] 하드웨어 가속 끄기.md",
     "developer/IDE/[IDE] 정규표현식 검색.md",
@@ -173,11 +197,6 @@
     "01_daily/2023년 12월 27일 수요일.md",
     "01_daily/2023년 12월 28일 목요일.md",
     "03_career/면접복기/(주) 포비즈코리아.md",
-    "무제 파일.md",
-    "01_daily/ㅁ내야러매냘ㅇ.md",
-    "01_daily/Untitled.md",
-    "01_daily/무제 파일.md",
-    "01_daily/asdf.md",
     "01_daily/Journal",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서",
