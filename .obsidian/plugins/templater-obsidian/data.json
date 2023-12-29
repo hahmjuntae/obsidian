@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "_template",
+  "templates_folder": "_/",
   "templates_pairs": [
     [
       "",
@@ -27,5 +27,5 @@
   "startup_templates": [
     ""
   ],
-  "enable_ribbon_icon": true
+  "enable_ribbon_icon": false
 }

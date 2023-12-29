@@ -11,8 +11,12 @@
             "id": "adac2789a68a48e3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -54,22 +58,15 @@
             }
           },
           {
-            "id": "cffd9aa30c2d219f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "f67e70ca5c8e34e9",
+            "id": "c7fd9d6f3fb8677b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -89,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "util/mac/Mac 온보딩.md"
+                "file": "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md"
               }
             }
           },
@@ -144,13 +143,31 @@
       "templates:템플릿 삽입": true,
       "obsidian-full-calendar:Open Full Calendar": true,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian42-brat:BRAT": true,
+      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "templater-obsidian:Templater": false
+      "obsidian42-brat:BRAT": false
     }
   },
-  "active": "0a48ea2d4f9234a7",
+  "active": "c7fd9d6f3fb8677b",
   "lastOpenFiles": [
+    "developer/CS/CS.md",
+    "developer/Windows/Windows.md",
+    "developer/Windows",
+    "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+    "developer/CS/[CS] HTTP 코드 정리.md",
+    "developer/CSS/[CSS] checkbox, radio checked 확인법.md",
+    "developer/IDE/[IDE] 하드웨어 가속 끄기.md",
+    "developer/IDE/[IDE] 정규표현식 검색.md",
+    "developer/Vue/[Vue] LifeCycle Hooks.md",
+    "developer/jQuery/[jQuery]  attr()과 prop()의 차이.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "_/99_troubleshooting.md",
+    "_/00_none.md",
+    "_",
+    "util/mac/Mac 온보딩.md",
     "developer/JS/[JS] Tip.md",
     "_template/01_daily.md",
     "01_daily/2023년 12월 27일 수요일.md",
@@ -161,23 +178,7 @@
     "01_daily/Untitled.md",
     "01_daily/무제 파일.md",
     "01_daily/asdf.md",
-    "01_daily/무제 파일무제 파일 2.md",
-    "_template/99_troubleshooting.md",
-    "_template/00_none.md",
-    "_template/01_todo.md",
-    "01_daily/Journal/2023년 12월 26일 화요일.md",
-    "01_daily/Journal/무제 파일 3.md",
-    "01_daily/Journal/무제 파일 1.md",
-    "01_daily/Journal/2023년 12월 28일 목요일.md",
-    "01_daily/Journal/무제 파일 2.md",
-    "_template/test.md",
-    "01_daily/Journal/Untitled 1.md",
-    "_template/<% tp.file.creation_date(\"YYYY년 MMMM Do dddd\") %>.md",
-    "01_daily/Journal/Untitled.md",
-    "Untitled.md",
-    "01_daily/Todo.md",
     "01_daily/Journal",
-    "2023-12-26.md",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서",
     "03_career/면접복기",
@@ -185,8 +186,6 @@
     "developer/jQuery",
     "developer/Vue",
     "developer/TS",
-    "developer/JS",
-    "developer/IDE",
     "util/assets/wallpaper/saturn.png",
     "00_hahm/assets/wallpaper/ㄴaturn.png",
     "00_hahm/assets/wallpaper/토성.png",
