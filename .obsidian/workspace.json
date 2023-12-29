@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md",
                 "mode": "preview",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md"
+                "file": "developer/Shell/[PowerShell] 확장자 일괄변경.md"
               }
             }
           },
@@ -149,7 +149,6 @@
       "switcher:퀵 스위처 열기": true,
       "daily-notes:오늘의 데일리 노트 열기": true,
       "templates:템플릿 삽입": true,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian42-brat:BRAT": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false
@@ -157,8 +156,10 @@
   },
   "active": "adac2789a68a48e3",
   "lastOpenFiles": [
-    "developer/Build/[Vite] 디버그 옵션 추가.md",
     "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+    "developer/Shell",
+    "무제 폴더",
+    "developer/Build/[Vite] 디버그 옵션 추가.md",
     "Vault.md",
     "developer/Build",
     "developer/Vue/[Vue] watch.md",
@@ -190,8 +191,6 @@
     "03_career/이력서",
     "03_career/면접복기",
     "03_career",
-    "developer/jQuery",
-    "developer/Vue",
     "_util/wallpaper/saturn.png",
     "00_hahm/assets/wallpaper/ㄴaturn.png",
     "00_hahm/assets/wallpaper/토성.png",

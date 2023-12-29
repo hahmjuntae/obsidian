@@ -2,7 +2,6 @@
   "obsidian-imgur-plugin",
   "copy-document-as-html",
   "dataview",
-  "obsidian-full-calendar",
   "make-md",
   "markdown-table-editor",
   "obsidian-style-settings",
@@ -12,6 +11,5 @@
   "tistory",
   "table-editor-obsidian",
   "obsidian-git",
-  "templater-obsidian",
-  "obsidian-icon-folder"
+  "templater-obsidian"
 ]
