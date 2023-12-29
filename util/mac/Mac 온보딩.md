@@ -1,17 +1,7 @@
-## Oracle Java JDK 설치
----
-## Brew 설치
-Formulae
-- git
-- docker
-- docker-completion
-- zsh-completions
-- tree
 
 Casks
 - warp
-- karabiner-elements
-- google-chrome
+- karabiner-elements- google-chrome
 - adobe-acrobat-reader
 - keka
 - snipaste
