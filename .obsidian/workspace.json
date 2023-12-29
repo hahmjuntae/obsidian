@@ -85,12 +85,21 @@
               "type": "mk-path-view",
               "state": {}
             }
+          },
+          {
+            "id": "d9d6dff6a3d24584",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 374.5
+    "width": 304.5
   },
   "right": {
     "id": "28b9a19e215cf491",
@@ -161,30 +170,30 @@
       "switcher:퀵 스위처 열기": true,
       "daily-notes:오늘의 데일리 노트 열기": true,
       "templates:템플릿 삽입": true,
-      "obsidian-full-calendar:Open Full Calendar": true,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian42-brat:BRAT": false
+      "obsidian42-brat:BRAT": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a48ea2d4f9234a7",
+  "active": "7394e1625297932e",
   "lastOpenFiles": [
+    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+    "developer/Build/[Vite] 디버그 옵션 추가.md",
+    "Vault.md",
     "developer/Build",
     "developer/Vue/[Vue] watch.md",
     "developer/Vue/[Vue] watch의 추가옵션.md",
-    "developer/Build/[Vite] 디버그 옵션 추가.md",
     "developer/Windows/Windows.md",
     "developer/VSCode/[VSCode] 정규표현식 검색.md",
-    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "developer/CSS/[CSS] mixin 모음.md",
     "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
     "developer/CSS/[CSS] calc에서 rem 사용.md",
     "developer/CSS/asdf.md",
     "developer/HTTP/CS.md",
     "developer/HTML/HTML.md",
-    "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
-    "Vault.md",
-    "developer/Windows",
+    "Windows/[Windows] PowerShell로 확장자 일괄변경.md",
+    "Windows",
     "developer/CSS/[CSS] checkbox, radio checked 확인법.md",
     "developer/VSCode/[VSCode] 하드웨어 가속 끄기.md",
     "developer/Vue/[Vue] LifeCycle Hooks.md",
@@ -193,9 +202,9 @@
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "_/99_troubleshooting.md",
-    "_/00_none.md",
-    "_",
+    "_template/99_troubleshooting.md",
+    "_template/00_none.md",
+    "_template",
     "util/mac/Mac 온보딩.md",
     "01_daily/Journal",
     "03_career/이력서/2023년_1분기_PDF.pdf",
@@ -204,8 +213,7 @@
     "03_career",
     "developer/jQuery",
     "developer/Vue",
-    "developer/TS",
-    "util/assets/wallpaper/saturn.png",
+    "_util/wallpaper/saturn.png",
     "00_hahm/assets/wallpaper/ㄴaturn.png",
     "00_hahm/assets/wallpaper/토성.png",
     "01_docs/java-metacommerce/04_BE/api_logic/system/system.png",

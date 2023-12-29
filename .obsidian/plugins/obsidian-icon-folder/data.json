@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiWorkflow",
-      "SiWebpack",
-      "TiBrandVite",
-      "SiVite",
-      "SiJenkins"
+      "CoLineXl",
+      "RiRobot2Line",
+      "LiWallpaper",
+      "LiImage",
+      "RiFontSize"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,9 +30,6 @@
     "iconName": "RiMacbookLine",
     "inheritanceIcon": "RiMacbookLine"
   },
-  "_": "LiPalette",
-  "_/00_none.md": "IbDocument",
-  "_/99_troubleshooting.md": "LiRocket",
   "developer/CSS": {
     "iconName": "SiCss3",
     "inheritanceIcon": "BoBxlCss3"
@@ -114,8 +111,18 @@
   "developer/Vue/[Vue] shallowRef.md": "RiVuejsLine",
   "developer/Vue/[Vue] watch.md": "RiVuejsLine",
   "developer/Vue/[Vue] watch의 추가옵션.md": "RiVuejsLine",
-  "developer/Windows": "SiWindows10",
-  "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md": "SiWindows10",
   "developer/Build/[Vite] 디버그 옵션 추가.md": "TiBrandVite",
-  "developer/Build": "LiWorkflow"
+  "developer/Build": "LiWorkflow",
+  "_util": "FasToolbox",
+  "_util/fonts": "RiFontSize",
+  "_util/image": "LiImage",
+  "_util/wallpaper": "LiWallpaper",
+  "_template": "LiPalette",
+  "_template/00_none.md": "IbDocument",
+  "_template/99_troubleshooting.md": "LiRocket",
+  "MacOS": "SiApple",
+  "MacOS/automator": "RiRobot2Line",
+  "MacOS/dock divider": "CoLineXl",
+  "Windows": "SiWindows10",
+  "Windows/[Windows] PowerShell로 확장자 일괄변경.md": "SiWindows10"
 }
