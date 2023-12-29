@@ -11,12 +11,8 @@
             "id": "adac2789a68a48e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "util/mac/Mac 온보딩.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -73,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "util/mac/Mac 온보딩.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "util/mac/Mac 온보딩.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +149,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "adac2789a68a48e3",
+  "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
     "developer/JS/[JS] Tip.md",
     "_template/01_daily.md",
