@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7394e1625297932e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "developer/Build/[Vite] 디버그 옵션 추가.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,14 +66,6 @@
             }
           },
           {
-            "id": "c7fd9d6f3fb8677b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
             "id": "d9d6dff6a3d24584",
             "type": "leaf",
             "state": {
@@ -95,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -115,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Build/[Vite] 디버그 옵션 추가.md",
+                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Build/[Vite] 디버그 옵션 추가.md",
+                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Build/[Vite] 디버그 옵션 추가.md"
+                "file": "developer/HTTP/[HTTP] HTTP 코드 정리.md"
               }
             }
           },
@@ -176,10 +155,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7394e1625297932e",
+  "active": "adac2789a68a48e3",
   "lastOpenFiles": [
-    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "developer/Build/[Vite] 디버그 옵션 추가.md",
+    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "Vault.md",
     "developer/Build",
     "developer/Vue/[Vue] watch.md",
