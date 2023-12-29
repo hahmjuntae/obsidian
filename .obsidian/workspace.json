@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
+                "file": "developer/Build/[Vite] 디버그 옵션 추가.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
+                "file": "developer/Build/[Vite] 디버그 옵션 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
+                "file": "developer/Build/[Vite] 디버그 옵션 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md"
+                "file": "developer/Build/[Vite] 디버그 옵션 추가.md"
               }
             }
           },
@@ -169,19 +169,24 @@
   },
   "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
-    "developer/CSS/[CSS] calc에서 rem 사용.md",
+    "developer/Build",
+    "developer/Vue/[Vue] watch.md",
+    "developer/Vue/[Vue] watch의 추가옵션.md",
+    "developer/Build/[Vite] 디버그 옵션 추가.md",
+    "developer/Windows/Windows.md",
+    "developer/VSCode/[VSCode] 정규표현식 검색.md",
+    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
+    "developer/CSS/[CSS] mixin 모음.md",
     "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
+    "developer/CSS/[CSS] calc에서 rem 사용.md",
     "developer/CSS/asdf.md",
     "developer/HTTP/CS.md",
     "developer/HTML/HTML.md",
     "developer/Windows/[Windows] PowerShell로 확장자 일괄변경.md",
     "Vault.md",
-    "developer/Windows/Windows.md",
     "developer/Windows",
-    "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "developer/CSS/[CSS] checkbox, radio checked 확인법.md",
-    "developer/IDE/[IDE] 하드웨어 가속 끄기.md",
-    "developer/IDE/[IDE] 정규표현식 검색.md",
+    "developer/VSCode/[VSCode] 하드웨어 가속 끄기.md",
     "developer/Vue/[Vue] LifeCycle Hooks.md",
     "developer/jQuery/[jQuery]  attr()과 prop()의 차이.md",
     "Untitled 3.md",
@@ -192,11 +197,6 @@
     "_/00_none.md",
     "_",
     "util/mac/Mac 온보딩.md",
-    "developer/JS/[JS] Tip.md",
-    "_template/01_daily.md",
-    "01_daily/2023년 12월 27일 수요일.md",
-    "01_daily/2023년 12월 28일 목요일.md",
-    "03_career/면접복기/(주) 포비즈코리아.md",
     "01_daily/Journal",
     "03_career/이력서/2023년_1분기_PDF.pdf",
     "03_career/이력서",
