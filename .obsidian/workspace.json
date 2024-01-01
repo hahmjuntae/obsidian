@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c6f656e09840839c",
+        "id": "cdb2993a63557121",
         "type": "tabs",
         "children": [
           {
-            "id": "50b7eae40749603f",
+            "id": "903830ec19bede22",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png"
+                "file": "developer/HTML/[HTML] script태그의 속성.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",
+                "file": "developer/HTML/[HTML] script태그의 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",
+                "file": "developer/HTML/[HTML] script태그의 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png"
+                "file": "developer/HTML/[HTML] script태그의 속성.md"
               }
             }
           },
@@ -152,8 +154,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "50b7eae40749603f",
+  "active": "903830ec19bede22",
   "lastOpenFiles": [
+    "_template/00_none.md",
+    "_template/99_troubleshooting.md",
+    "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",
     "assets/wallpaper/natalie-karpushenko_oceanbreath_DELL.png",
     "assets/wallpaper/Horizon Table Raheeyoon 03.webp",
     "assets/wallpaper/fbb046faf7af5d2fd8ea7a.webp",
@@ -184,8 +189,6 @@
     "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "_template/99_troubleshooting.md",
-    "_template/00_none.md",
     "_template",
     "01_daily/Journal",
     "03_career/이력서/2023년_1분기_PDF.pdf",
@@ -197,8 +200,6 @@
     "00_hahm/assets/wallpaper/토성.png",
     "01_docs/java-metacommerce/04_BE/api_logic/system/system.png",
     "01_docs/java-metacommerce/04_BE/api_logic/seller/seller.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/promotion/promotion.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/buyer/buyer.png"
+    "01_docs/java-metacommerce/04_BE/api_logic/promotion/promotion.png"
   ]
 }
