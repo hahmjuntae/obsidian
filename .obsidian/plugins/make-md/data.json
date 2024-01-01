@@ -43,7 +43,11 @@
     "//developer/developer/CSS",
     "//developer/developer/CSS",
     "//developer/developer/Windows",
-    "//developer/developer/HTML"
+    "//developer/developer/HTML",
+    "//developer",
+    "//assets",
+    "//_template",
+    "//assets/assets/image"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
