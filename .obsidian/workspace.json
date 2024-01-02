@@ -11,11 +11,9 @@
             "id": "903830ec19bede22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "developer/HTML/[HTML] script태그의 속성.md",
-                "mode": "preview",
-                "source": false
+                "path": "developer/HTTP"
               }
             }
           }
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 293.5
   },
   "right": {
     "id": "28b9a19e215cf491",
@@ -94,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/HTML/[HTML] script태그의 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/HTML/[HTML] script태그의 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "developer/HTML/[HTML] script태그의 속성.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,6 +150,7 @@
   },
   "active": "903830ec19bede22",
   "lastOpenFiles": [
+    "developer/HTML/[HTML] script태그의 속성.md",
     "_template/00_none.md",
     "_template/99_troubleshooting.md",
     "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",

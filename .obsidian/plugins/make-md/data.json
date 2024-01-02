@@ -47,7 +47,8 @@
     "//developer",
     "//assets",
     "//_template",
-    "//assets/assets/image"
+    "//assets/assets/image",
+    "//developer/developer/HTTP"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
