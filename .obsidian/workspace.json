@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "cdb2993a63557121",
+        "id": "8b02d92b3a05ef13",
         "type": "tabs",
         "children": [
           {
-            "id": "903830ec19bede22",
+            "id": "70a1f0c8907f16a6",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "developer/HTTP"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,53 +145,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "903830ec19bede22",
+  "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
+    "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.graphml",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.uml",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.plantuml",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.graphml",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.drawio",
+    "docs/project/java-metacommerce/04_BE/api_logic/system/system.dot",
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.uml",
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.plantuml",
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.graphml",
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.drawio",
+    "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/order/order.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/order/order.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/display/display.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/display/display.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/cs/cs.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/cs/cs.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.md",
+    "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.png",
+    "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md",
+    "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
+    "docs/project/imnewrun/03_GUI/Typhography.md",
     "developer/HTML/[HTML] script태그의 속성.md",
     "_template/00_none.md",
     "_template/99_troubleshooting.md",
-    "assets/wallpaper/natalie-karpushenko_oceanbreath_LG.png",
-    "assets/wallpaper/natalie-karpushenko_oceanbreath_DELL.png",
-    "assets/wallpaper/Horizon Table Raheeyoon 03.webp",
-    "assets/wallpaper/fbb046faf7af5d2fd8ea7a.webp",
     "developer/Shell/[PowerShell] 확장자 일괄변경.md",
     "developer/HTTP/[HTTP] HTTP 코드 정리.md",
-    "developer/Shell",
-    "무제 폴더",
     "developer/Build/[Vite] 디버그 옵션 추가.md",
     "Vault.md",
-    "developer/Build",
     "developer/Vue/[Vue] watch.md",
     "developer/Vue/[Vue] watch의 추가옵션.md",
     "developer/Windows/Windows.md",
     "developer/VSCode/[VSCode] 정규표현식 검색.md",
-    "developer/CSS/[CSS] mixin 모음.md",
-    "developer/CSS/[CSS] 자식 요소가 inline일 때, 공백 제거.md",
-    "developer/CSS/[CSS] calc에서 rem 사용.md",
-    "developer/CSS/asdf.md",
-    "developer/HTTP/CS.md",
-    "developer/HTML/HTML.md",
-    "Windows/[Windows] PowerShell로 확장자 일괄변경.md",
-    "Windows",
-    "developer/CSS/[CSS] checkbox, radio checked 확인법.md",
-    "developer/VSCode/[VSCode] 하드웨어 가속 끄기.md",
-    "developer/Vue/[Vue] LifeCycle Hooks.md",
-    "developer/jQuery/[jQuery]  attr()과 prop()의 차이.md",
-    "Untitled 3.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "_template",
-    "01_daily/Journal",
-    "03_career/이력서/2023년_1분기_PDF.pdf",
-    "03_career/이력서",
-    "03_career/면접복기",
-    "03_career",
-    "assets/wallpaper/saturn.png",
-    "00_hahm/assets/wallpaper/ㄴaturn.png",
-    "00_hahm/assets/wallpaper/토성.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/system/system.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/seller/seller.png",
-    "01_docs/java-metacommerce/04_BE/api_logic/promotion/promotion.png"
+    "developer/CSS/[CSS] mixin 모음.md"
   ]
 }
