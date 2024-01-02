@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7799993667955c9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/project/imnewrun/03_GUI/Typhography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,8 +166,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70a1f0c8907f16a6",
+  "active": "7799993667955c9b",
   "lastOpenFiles": [
+    "docs/project/imnewrun/03_GUI/Typhography 1.md",
+    "docs/project/imnewrun/03_GUI/Typhography.md",
+    "developer/Build/[Vite] 디버그 옵션 추가.md",
     "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.png",
     "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.graphml",
     "docs/project/java-metacommerce/04_BE/api_logic/system/system.uml",
@@ -185,16 +201,13 @@
     "docs/project/java-metacommerce/04_BE/api_logic/cs/cs.md",
     "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.png",
     "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.png",
     "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md",
     "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
-    "docs/project/imnewrun/03_GUI/Typhography.md",
     "developer/HTML/[HTML] script태그의 속성.md",
     "_template/00_none.md",
     "_template/99_troubleshooting.md",
     "developer/Shell/[PowerShell] 확장자 일괄변경.md",
     "developer/HTTP/[HTTP] HTTP 코드 정리.md",
-    "developer/Build/[Vite] 디버그 옵션 추가.md",
     "Vault.md",
     "developer/Vue/[Vue] watch.md",
     "developer/Vue/[Vue] watch의 추가옵션.md",

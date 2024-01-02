@@ -8,7 +8,7 @@
   "newFileLocation": "current",
   "showUnsupportedFiles": true,
   "propertiesInDocument": "visible",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "focusNewTab": true,
   "livePreview": true,
   "tabSize": 2,
