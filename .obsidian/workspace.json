@@ -86,8 +86,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,6 +168,8 @@
   },
   "active": "7799993667955c9b",
   "lastOpenFiles": [
+    "developer/HTML/HTML.md",
+    "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
     "docs/project/imnewrun/01_PM/~$IMNEWRUN_WBS_v0.11_231221.xlsx",
     "docs/project/imnewrun/03_GUI/Typhography.md",
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
@@ -187,7 +188,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.plantuml",
     "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.graphml",
     "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.drawio",
     "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.png",
     "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md",
     "docs/project/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.png",
@@ -204,7 +204,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.png",
     "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.md",
     "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md",
-    "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
     "developer/HTML/[HTML] script태그의 속성.md",
     "_template/00_none.md",
     "_template/99_troubleshooting.md",
