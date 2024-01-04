@@ -41,7 +41,12 @@
     "//developer/developer/CS",
     "//developer/developer/CS",
     "//developer/developer/Windows",
-    "//developer/developer/HTML"
+    "//docs",
+    "//_template",
+    "//assets/assets/mac",
+    "//assets",
+    "//developer",
+    "//developer"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
