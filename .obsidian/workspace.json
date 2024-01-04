@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/project/imnewrun/03_GUI/Typhography.md",
+                "file": "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/project/imnewrun/03_GUI/Typhography.md",
+                "file": "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/project/imnewrun/03_GUI/Typhography.md",
+                "file": "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/project/imnewrun/03_GUI/Typhography.md"
+                "file": "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   },
   "active": "7799993667955c9b",
   "lastOpenFiles": [
+    "docs/project/imnewrun/03_GUI/Typhography.md",
     "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
     "docs/project/imnewrun/01_PM/~$IMNEWRUN_WBS_v0.10_231219.xlsx",
     "assets/mac/automator/ChatGPT.app/Icon\r",
@@ -180,7 +181,6 @@
     "assets/mac/automator/ChatGPT.app/Contents/Resources/tr.lproj",
     "assets/mac/automator/ChatGPT.app/Contents/Resources/th.lproj",
     "developer/HTML/HTML.md",
-    "docs/project/imnewrun/03_GUI/Typhography.md",
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
     "developer/Build/[Vite] 디버그 옵션 추가.md",
     "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.png",
