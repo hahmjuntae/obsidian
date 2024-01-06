@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md"
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md"
               }
             }
           }
@@ -153,10 +153,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70a1f0c8907f16a6",
+  "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
     "developer/Vue/[Vue] markRaw.md",
-    "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
+    "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
     "developer/Vue/[Vue] LifeCycle Hooks.md",
     "developer/Vue/[Vue] LifeCycle 생명주기.md",
     "developer/Vue/[Vue] keep-alive의 속성.md",
