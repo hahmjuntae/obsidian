@@ -3,12 +3,15 @@ tistoryBlogName: kyledev
 tistoryTitle: "[NPM] npm global 설치 에러"
 tistoryTags: npm,nodejs,node,global,permission denied
 tistoryVisibility: "3"
-tistoryCategory: "1111018"
+tistoryCategory: "1106951"
 tistoryPostId: "244"
 tistoryPostUrl: https://kyledev.tistory.com/244
+tistorySkipModal: true
 ---
 ## 문제
-`Error: EACCES: permission denied`
+```
+Error: EACCES: permission denied`
+```
 
 노드 패키지를 글로벌로 설치 할 때 권한 문제 발생
 
@@ -70,5 +73,11 @@ source ~/.profile
 ...
 ```
 
+- 추가방법
+npm 라이브러리가 설치되는 디렉토리의 owner를 현재 사용자로 바꾸면 된다.
+```zsh
+# 다음 명령어를 실행시키고 password를 입력한다
+sudo chown -R $(whoami) $(npm config get prefix)/{lib/node_modules,bin,share}
+```
 ## 참고
 [https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
