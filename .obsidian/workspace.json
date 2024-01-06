@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "file": "developer/Git/[Git].md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "file": "developer/Git/[Git].md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "file": "developer/Git/[Git].md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md"
+                "file": "developer/Git/[Git].md"
               }
             }
           },
@@ -163,10 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a48ea2d4f9234a7",
+  "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
-    "docs/project/imnewrun/03_GUI/Typhography.md",
     "developer/NodeJS/[TR] npm global 설치 에러.md",
+    "developer/Git/[Git].md",
+    "developer/Git",
+    "_template/99_troubleshooting.md",
+    "docs/project/imnewrun/03_GUI/Typhography.md",
     "developer/NodeJS",
     "developer/OS",
     "developer/무제 파일.md",
@@ -178,7 +181,6 @@
     "assets/mac/automator/ChatGPT.app/Contents/Resources/zh_HK.lproj",
     "assets/mac/automator/ChatGPT.app/Contents/Resources/zh_CN.lproj",
     "assets/mac/automator/ChatGPT.app/Contents/Resources/vi.lproj",
-    "assets/mac/automator/ChatGPT.app/Contents/Resources/uk.lproj",
     "developer/HTML/HTML.md",
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
     "developer/Build/[Vite] 디버그 옵션 추가.md",
@@ -205,11 +207,9 @@
     "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md",
     "developer/HTML/[HTML] script태그의 속성.md",
     "_template/00_none.md",
-    "_template/99_troubleshooting.md",
     "developer/Shell/[PowerShell] 확장자 일괄변경.md",
     "developer/HTTP/[HTTP] HTTP 코드 정리.md",
     "Vault.md",
-    "developer/Vue/[Vue] watch.md",
-    "developer/Vue/[Vue] watch의 추가옵션.md"
+    "developer/Vue/[Vue] watch.md"
   ]
 }
