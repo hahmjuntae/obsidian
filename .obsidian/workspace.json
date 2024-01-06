@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive의 속성.md",
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive의 속성.md",
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive의 속성.md",
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive의 속성.md"
+                "file": "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md"
               }
             }
           }
@@ -155,6 +155,11 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "developer/Vue/[Vue] markRaw.md",
+    "developer/Git/[Git] 이미 업로드 된 파일 gitignore에 추가하기.md",
+    "developer/Vue/[Vue] LifeCycle Hooks.md",
+    "developer/Vue/[Vue] LifeCycle 생명주기.md",
+    "developer/Vue/[Vue] keep-alive의 속성.md",
     "developer/Vue/[Vue] keep-alive.md",
     "developer/Vue/[Vue] computed.md",
     "developer/Vue/[Vue] 커스텀 hook 생성.md",
@@ -165,7 +170,6 @@
     "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
     "design",
     "developer/Vue/design.md",
-    "developer/Vue/[Vue] LifeCycle Hooks.md",
     "developer/OS/[Mac] zsh 환경 설정.md",
     "assets/tistory/thumbnail/vue.png",
     "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
@@ -196,10 +200,6 @@
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
     "developer/FE/[FE] ESLint와 TSLint.md",
     "_template/99_troubleshooting.md",
-    "_template/00_none.md",
-    "docs/project/imnewrun/03_GUI/Typhography.md",
-    "developer/무제 파일.md",
-    "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
-    "developer/HTML/HTML.md"
+    "_template/00_none.md"
   ]
 }
