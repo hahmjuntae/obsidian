@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md",
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md",
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md",
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md"
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md"
               }
             }
           },
@@ -155,8 +155,10 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
-    "developer/OS/[Mac] 개발환경 설정.md",
+    "developer/Vue/[Vue] watch의 추가옵션.md",
+    "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
     "developer/OS/[Mac] zsh 환경 설정.md",
+    "developer/OS/[Mac] 개발환경 설정.md",
     "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
     "assets/tistory/thumbnail/private.jpeg",
     "assets/tistory/thumbnail/private.jpeg.crdownload",
@@ -198,8 +200,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md",
     "docs/project/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.md",
     "docs/project/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/order/order.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/display/display.md"
+    "docs/project/java-metacommerce/04_BE/api_logic/order/order.md"
   ]
 }
