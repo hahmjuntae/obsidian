@@ -1,4 +1,4 @@
-## 🔥 문제
+## 문제
 `Error: EACCES: permission denied`
 
 노드 패키지를 글로벌로 설치 할 때 권한 문제 발생
@@ -27,10 +27,10 @@ Unable to save binary /usr/local/lib/node_modules/pacakge/vendor/linux-x64-72 : 
 }
 ```
 
-## ⚓ 원인
+## 원인
 -g 옵션으로 global 설치할 때에만 발생하는 권한 문제인 것 같다.
 
-## 💡 해결방안
+## 해결방안
 
 루트 경로에 npm global 패키지용 디렉토리를 생성한다.
 ```zsh
@@ -61,7 +61,7 @@ source ~/.profile
 ...
 ```
 
-## 🔗 참고
+## 참고
 [https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
 
 

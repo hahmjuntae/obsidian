@@ -1,4 +1,12 @@
-## 🔥 문제
+---
+tistoryBlogName: kyledev
+tistoryTitle: "[Git] SSH Key 생성 및 추가"
+tistoryVisibility: "0"
+tistoryCategory: "1110506"
+tistoryPostId: "243"
+tistoryPostUrl: https://kyledev.tistory.com/243
+---
+## 문제
 새로운 맥을 구입 한 후 깃에서 클론 하려는데 권한 에러가 발생했다.
 
 ```
@@ -7,10 +15,10 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights and the repository exists.
 ```
-## ⚓ 원인
+## 원인
 PC를 변경할 때마다 등록되지 않은 새로운 기기이므로 SSH키를 발급받아서 설정해야하는 당연한 상황이다.
 
-## 💡 해결방안
+## 해결방안
 아래 명령어를 입력하면 SSH 키를 생성하는 과정이 시작된다. RSA 알고리즘을 사용하여 새로운 SSH 키 쌍(공개키와 비밀키)을 생성하게된다.
 ```zsh
 ssh-keygen -t rsa -C "깃 이메일주소"
@@ -59,5 +67,19 @@ Github - Settings - SSH and GPG keys의 New SSH Key 버튼을 클릭한다.
 Title에는 임의의 키 이름을 입력하고 Key란에 복사한 값을 입력하고 저장하면 된다.
 ![](https://i.imgur.com/VnSyIX6.png)
 
+추가로, SSH Key를 생성할 때 비밀번호를 설정하면 명령어를 입력할 때마다 비밀번호를 입력해야하는 번거로움이 있다.
 
-## 🔗 참고
+.zshrc에 아래 내용을 추가한다.
+```zsh
+# >>>SSH AGENT>>>
+if [ $(ps ax | grep "[s]sh-agent" | wc -l) -eq 0 ] ; then
+    eval $(ssh-agent -s) > /dev/null
+    if [ "$(ssh-add -l)" = "The agent has no identities." ] ; then
+	ssh-add ~/.ssh/id_rsa > /dev/null 2>&1
+    fi
+fi
+# <<<SSH AGENT<<<
+```
+SSH Agent를 사용해서 zsh 쉘 실행 할때마다 새로운 세션을 실행시켜 세션이 종료될 때까지는 비밀번호를 입력하지 않아도 되도록 한다.
+## 참고
+https://www.tomaszmik.us/2020/09/21/auto-start-ssh-agent-zsh/
