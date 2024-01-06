@@ -18,16 +18,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7799993667955c9b",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "developer"
-              }
-            }
           }
         ]
       }
@@ -165,8 +155,17 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
-    "developer/Git/[Git] SSH Key 생성 및 추가.md",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
+    "assets/tistory/thumbnail/nosql.png",
+    "assets/tistory/thumbnail/no-sql.png",
+    "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
+    "assets/tistory/thumbnail/library.png",
+    "assets/tistory/thumbnail/_thumbnail-creator.pptx",
+    "assets/tistory/thumbnail/__thumbnail-creator.pptx",
+    "assets/tistory/thumbnail/sql.png",
+    "assets/tistory/thumbnail/thumbnail-creator.pptx",
+    "assets/tistory/thumbnail/~$thumbnail-creator.pptx",
+    "developer/Git/[Git] SSH Key 생성 및 추가.md",
     "developer/DB",
     "assets/tistory/thumbnail/nodejs-express.png",
     "assets/tistory/thumbnail/mongo-db.png",
@@ -174,20 +173,11 @@
     "assets/tistory/thumbnail/react.png",
     "assets/tistory/thumbnail/nodejs.png",
     "assets/tistory/thumbnail/_library.png",
-    "assets/tistory/thumbnail/axios.png",
     "assets/tistory/thumbnail/axios.png.crdownload",
-    "assets/tistory/thumbnail/emotion.png",
-    "assets/tistory/thumbnail/react-router.png",
-    "assets/tistory/thumbnail/react-icons.png",
     "assets/tistory/thumbnail/react-icons.png.crdownload",
     "assets/tistory/thumbnail/ㅓㄴ.png.crdownload",
     "assets/tistory/thumbnail/sentence-u.png.crdownload",
     "developer/NodeJS/[NPM] npm global 설치 에러.md",
-    "assets/tistory/thumbnail",
-    "assets/tistory/thumb",
-    "assets/tistory/무제 폴더",
-    "assets/tistory/skin/tistory_v2.0_231214/images/vendor.dd733fdffcb4fac8fb03.js",
-    "assets/tistory/skin/tistory_v2.0_231214/images/script.K1eQzb5l2g5r797j09M2.js",
     "developer/FE/[FE] ESLint와 TSLint.md",
     "_template/99_troubleshooting.md",
     "_template/00_none.md",
@@ -209,7 +199,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.md",
     "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md",
     "developer/HTML/[HTML] script태그의 속성.md",
-    "developer/Shell/[PowerShell] 확장자 일괄변경.md",
-    "developer/HTTP/[HTTP] HTTP 코드 정리.md"
+    "developer/Shell/[PowerShell] 확장자 일괄변경.md"
   ]
 }
