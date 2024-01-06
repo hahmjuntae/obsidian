@@ -2383,6 +2383,7 @@
     transition: 0.2s background-color;
   }
   .hljs .copy-btn:hover {
+    cursor: pointer;
     color: var(--primary-black);
     background-color: var(--primary-white);
   }
@@ -2903,3 +2904,4 @@
     }
   }
 }
+
