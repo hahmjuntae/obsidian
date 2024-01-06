@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/OS/[MAC] 개발환경 설정.md",
+                "file": "_template/프로그래머스.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/OS/[MAC] 개발환경 설정.md",
+                "file": "_template/프로그래머스.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/OS/[MAC] 개발환경 설정.md",
+                "file": "_template/프로그래머스.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/OS/[MAC] 개발환경 설정.md"
+                "file": "_template/프로그래머스.md"
               }
             }
           },
@@ -155,30 +155,31 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "assets/tistory/thumbnail/xcode.png",
+    "assets/tistory/thumbnail/sourcetree.png",
+    "assets/tistory/thumbnail/vscode.png",
+    "developer/OS/[MAC] 개발환경 설정.md",
+    "_template/프로그래머스.md",
+    "assets/tistory/thumbnail/백준.png",
+    "assets/tistory/thumbnail/프로그래머스.jpeg",
+    "assets/tistory/thumbnail/프로그래머스.jpeg.crdownload",
+    "assets/tistory/thumbnail/ui.png",
     "assets/tistory/thumbnail/http.png",
     "assets/tistory/thumbnail/web.png.sb-6fba5776-u6DEvt",
     "assets/tistory/thumbnail/web.png",
     "assets/tistory/thumbnail/fe-interview.png",
     "assets/tistory/thumbnail/sass.png",
     "assets/tistory/thumbnail/css3.png",
-    "assets/tistory/thumbnail/mac.png",
     "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
-    "developer/OS/[MAC] 개발환경 설정.md",
-    "assets/tistory/thumbnail/nosql.png",
-    "assets/tistory/thumbnail/no-sql.png",
-    "assets/tistory/thumbnail/library.png",
     "assets/tistory/thumbnail/_thumbnail-creator.pptx",
     "assets/tistory/thumbnail/__thumbnail-creator.pptx",
-    "assets/tistory/thumbnail/sql.png",
     "assets/tistory/thumbnail/thumbnail-creator.pptx",
     "assets/tistory/thumbnail/~$thumbnail-creator.pptx",
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
     "developer/DB",
-    "assets/tistory/thumbnail/nodejs-express.png",
     "assets/tistory/thumbnail/axios.png.crdownload",
     "assets/tistory/thumbnail/react-icons.png.crdownload",
-    "assets/tistory/thumbnail/ㅓㄴ.png.crdownload",
     "developer/NodeJS/[NPM] npm global 설치 에러.md",
     "developer/FE/[FE] ESLint와 TSLint.md",
     "_template/99_troubleshooting.md",
@@ -199,7 +200,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/display/display.md",
     "docs/project/java-metacommerce/04_BE/api_logic/cs/cs.md",
     "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md",
-    "developer/HTML/[HTML] script태그의 속성.md"
+    "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md"
   ]
 }
