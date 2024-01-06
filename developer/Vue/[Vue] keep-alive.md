@@ -1,5 +1,14 @@
-
-Vue 3에서 `keep-alive`는 **컴포넌트의 상태를 보존하고 재사용**할 수 있게 해주는 내장 컴포넌트다.
+---
+tistoryBlogName: kyledev
+tistoryTitle: "[Vue] keep-alive"
+tistoryTags: vue,vue3,keepalive
+tistoryVisibility: "3"
+tistoryCategory: "1179347"
+tistorySkipModal: true
+tistoryPostId: "252"
+tistoryPostUrl: https://kyledev.tistory.com/252
+---
+==Vue3에서 `keep-alive`는 **컴포넌트의 상태를 보존하고 재사용**할 수 있게 해주는 내장 컴포넌트다.==
 이 기능을 사용하면 Vue 인스턴스의 상태를 유지하면서 컴포넌트를 비활성화하고, 나중에 다시 활성화할 수 있다.
 `keep-alive`는 성능 최적화에 유용하며, 특히 사용자가 여러 페이지 간에 이동할 때 컴포넌트의 상태를 유지해야 하는 경우에 매우 효과적이다.
 
@@ -33,5 +42,5 @@ const currentTab = ref('A');
 
 이 예시에서는 `ComponentA`와 `ComponentB`가 `keep-alive`로 감싸져 있다. 사용자가 탭 사이를 전환할 때, 각 컴포넌트의 상태는 `keep-alive`에 의해 보존되므로, 탭으로 다시 돌아왔을 때 이전 상태가 유지된다.
 
-## 결론
-`keep-alive`는 Vue 애플리케이션에서 컴포넌트의 상태를 보존하고 재사용하는 데 매우 유용하다. 이를 통해 개발자는 애플리케이션의 성능을 최적화하고 사용자 경험을 향상시킬 수 있다.
+### 결론
+`keep-alive`는 Vue 애플리케이션에서 컴포넌트의 상태를 보존하고 재사용하는 데 매우 유용하다.

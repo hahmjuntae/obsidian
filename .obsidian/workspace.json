@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive.md",
+                "file": "developer/Vue/[Vue] keep-alive의 속성.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive.md",
+                "file": "developer/Vue/[Vue] keep-alive의 속성.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive.md",
+                "file": "developer/Vue/[Vue] keep-alive의 속성.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Vue/[Vue] keep-alive.md"
+                "file": "developer/Vue/[Vue] keep-alive의 속성.md"
               }
             }
           }
@@ -155,8 +155,8 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
-    "developer/Vue/[Vue] computed.md",
     "developer/Vue/[Vue] keep-alive.md",
+    "developer/Vue/[Vue] computed.md",
     "developer/Vue/[Vue] 커스텀 hook 생성.md",
     "developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
     "design/[PS] 사진 테두리 Blur 처리하기.md",

@@ -229,6 +229,15 @@
     padding: 0 0 1.5rem;
     list-style: disc;
   }
+
+  .contents_style ol code,
+  .contents_style ul code,
+  .contents_style menu code {
+    border-radius: 4px !important;
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 1px 4px;
+  }
+
   textarea {
     resize: vertical;
   }
@@ -2309,7 +2318,6 @@
     color: var(--primary-black);
     background-color: rgba(0, 0, 0, 0.05);
     padding: 1px 4px;
-    font-weight: bold;
   }
   #content .contents_style pre code {
     margin: 1.2rem 0;
