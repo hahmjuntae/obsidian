@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+                "file": "design/[PS] 사진 테두리 Blur 처리하기.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+                "file": "design/[PS] 사진 테두리 Blur 처리하기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+                "file": "design/[PS] 사진 테두리 Blur 처리하기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md"
+                "file": "design/[PS] 사진 테두리 Blur 처리하기.md"
               }
             }
           }
@@ -156,13 +155,16 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+    "design/[PS] 사진 테두리 Blur 처리하기.md",
+    "design",
+    "developer/Vue/design.md",
     "developer/Vue/[Vue] LifeCycle Hooks.md",
     "developer/OS/[Mac] zsh 환경 설정.md",
     "assets/tistory/thumbnail/vue.png",
     "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
     "developer/OS/[Mac] 개발환경 설정.md",
     "developer/NodeJS/[NPM] npm global 설치 에러.md",
-    "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
     "assets/tistory/skin/custom/images/vendor.dd733fdffcb4fac8fb03.js",
     "assets/tistory/skin/custom/images/script.K1eQzb5l2g5r797j09M2.js",
     "assets/tistory/skin/custom/images/loading.gif",
@@ -174,7 +176,6 @@
     "assets/tistory/skin/custom/skin.html",
     "assets/tistory/skin/custom/index.xml",
     "assets/tistory/skin/custom/images",
-    "assets/tistory/skin/custom",
     "developer/Vue/[Vue] watch의 추가옵션.md",
     "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
     "assets/tistory/thumbnail/private.jpeg",
@@ -199,8 +200,6 @@
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
     "docs/project/java-metacommerce/04_BE/api_logic/system/system.md",
     "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.md"
+    "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md"
   ]
 }
