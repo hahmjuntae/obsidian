@@ -2296,10 +2296,13 @@
   #content .contents_style blockquote[data-ke-style='style2'] code,
   #content .contents_style blockquote[data-ke-style='style3'] code {
     position: relative;
-    border-radius: 0 !important;
+    border-radius: 4px !important;
     line-height: 1.25rem;
     white-space: normal;
     color: var(--primary-black);
+    background-color: rgba(0, 0, 0, 0.05);
+    padding: 1px 4px;
+    font-weight: bold;
   }
   #content .contents_style pre code {
     margin: -1rem 0 1.2rem;
