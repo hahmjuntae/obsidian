@@ -219,8 +219,15 @@
   ul,
   menu {
     margin: 0;
-    padding: 0;
     list-style: none;
+    padding: 0;
+  }
+  .contents_style ol,
+  .contents_style ul,
+  .contents_style menu {
+    margin: 0 0 0 1.5rem;
+    padding: 0 0 1.5rem;
+    list-style: disc;
   }
   textarea {
     resize: vertical;
@@ -1927,9 +1934,9 @@
   #content .contents_style h4 {
     display: flex;
     align-items: center;
-    margin-bottom: 1.2rem !important;
+    margin-bottom: 0.8rem !important;
     font-weight: bold;
-    line-height: 1.5;
+    line-height: 1.2;
   }
   #content .contents_style h2::before {
     display: inline-block;
@@ -2305,7 +2312,7 @@
     font-weight: bold;
   }
   #content .contents_style pre code {
-    margin: -1rem 0 1.2rem;
+    margin: 1.2rem 0;
     padding: 0.8rem;
     line-height: 1.5;
   }

@@ -37,7 +37,6 @@ const squaredNumber = computed(() => {
     <p>Squared Number: {{ squaredNumber }}</p>
   </div>
 </template>
-
 ```
 
 이 코드에서 `squaredNumber`는 `number`의 값에 따라 계산된 속성이다. `number` 값이 변경될 때마다 `squaredNumber`도 자동으로 업데이트된다.
@@ -86,7 +85,6 @@ const fullName = computed({
     <input v-model="fullName" placeholder="Full Name" />
   </div>
 </template>
-
 ```
 
 이 코드에서 `fullName`은 `firstName`과 `lastName`에 의존하는 계산된 속성이다. 사용자가 `fullName`을 업데이트하면 setter 함수가 호출되어 `firstName`과 `lastName`이 적절히 업데이트된다.
