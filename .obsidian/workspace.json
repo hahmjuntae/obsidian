@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md",
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md",
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md",
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/OS/[Mac] zsh 환경 설정.md"
+                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md"
               }
             }
           }
@@ -156,6 +155,8 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "developer/Vue/[Vue] LifeCycle Hooks.md",
+    "developer/OS/[Mac] zsh 환경 설정.md",
     "assets/tistory/thumbnail/vue.png",
     "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
     "developer/OS/[Mac] 개발환경 설정.md",
@@ -174,7 +175,6 @@
     "assets/tistory/skin/custom/images",
     "assets/tistory/skin/custom",
     "developer/Vue/[Vue] watch의 추가옵션.md",
-    "developer/OS/[Mac] zsh 환경 설정.md",
     "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
     "assets/tistory/thumbnail/private.jpeg",
     "developer/CSS/[CSS] Flex.md",
@@ -186,7 +186,6 @@
     "assets/tistory/thumbnail/sourcetree.png",
     "assets/tistory/thumbnail/vscode.png",
     "assets/tistory/thumbnail/백준.png",
-    "assets/tistory/thumbnail/프로그래머스.jpeg",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
     "developer/FE/[FE] ESLint와 TSLint.md",

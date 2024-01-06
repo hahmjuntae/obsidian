@@ -46,7 +46,8 @@
     "//assets/assets/mac",
     "//assets",
     "//developer",
-    "//developer"
+    "//developer",
+    "//developer/developer/Vue"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
