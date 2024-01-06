@@ -45,12 +45,19 @@ Your public key has been saved in /Users/hahmjuntae/.ssh/id_rsa.pub.
 
 cd로 접근하려하면 파일이나 디렉토리가 아니여서 이동을 못한다.
 
-그래서 cat 명령어로 직접 파일을 열게 되면  
+그래서 cat 명령어로 직접 파일을 열게 되면  `ssh-rsa`로 시작하는 복잡한 시퀀스 문자열이 나오게 된다.
 ```
 cat ~/.ssh/id_rsa.pub
 ```
+이 때, `ssh-rsa`부터 마지막에 이메일까지 복사한다.
 
-ssh-rsa 로 시작하고, 문자가 막 복잡하게 나열된 시퀀스가 나오게됩니다. :) 캡쳐는 안할게요. 
+이제 github에 SSH Key를 추가할 차례다.
 
-출처: [https://zeddios.tistory.com/120](https://zeddios.tistory.com/120) [ZeddiOS:티스토리]
+Github - Settings - SSH and GPG keys의 New SSH Key 버튼을 클릭한다.
+![](https://i.imgur.com/QA3KKJS.png)
+
+Title에는 임의의 키 이름을 입력하고 Key란에 복사한 값을 입력하고 저장하면 된다.
+![](https://i.imgur.com/VnSyIX6.png)
+
+
 ## 🔗 참고
