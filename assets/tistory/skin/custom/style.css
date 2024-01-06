@@ -22,13 +22,6 @@
     font-family: 'LINESeedKR';
     src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_11-01@1.0/LINESeedKR-Th.woff2') format('woff2');
   }
-  @font-face {
-    font-style: normal;
-    font-weight: normal;
-    font-family: 'SDSamliphopangche_Outline';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts-20-12@1.0/SDSamliphopangche_Outline.woff')
-      format('woff');
-  }
   :root {
     --pure-black: #000;
     --pure-white: #fff;
@@ -70,7 +63,7 @@
     border-width: 0;
     border-style: solid;
     border-color: currentColor;
-    cursor: url(https://cur.cursors-4u.net/others/oth-6/oth638.cur), auto !important;
+    /* cursor: url(https://cur.cursors-4u.net/others/oth-6/oth638.cur), auto !important; */
   }
   ::before,
   ::after {
@@ -145,7 +138,7 @@
   }
   input,
   textarea {
-    cursor: url(https://cur.cursors-4u.net/others/oth-6/oth633.cur), auto !important;
+    /* cursor: url(https://cur.cursors-4u.net/others/oth-6/oth633.cur), auto !important; */
   }
   button,
   select {
@@ -1556,7 +1549,6 @@
   }
   .loading-text {
     font-size: 4rem;
-    font-family: 'SDSamliphopangche_Outline';
     letter-spacing: 3px;
   }
   /* fixed-header */
@@ -1574,14 +1566,15 @@
     display: block;
     width: 100%;
     height: 100%;
-    background-image: linear-gradient(120deg, rgb(132, 250, 176) 0%, rgb(143, 211, 244) 100%);
+    /* background-image: linear-gradient(120deg, rgb(132, 250, 176) 0%, rgb(143, 211, 244) 100%); */
+    background-color: var(--primary-yellow);
     background-repeat: no-repeat;
     background-position: 0px 50%;
     background-size: 100% 88%;
     content: '';
     transform: scaleX(0);
     transform-origin: bottom right;
-    transition: transform 0.2s;
+    transition: transform 0.5s;
   }
   #fixed-header div:hover a.underline-ani::before {
     transform: scaleX(1);
@@ -1621,9 +1614,10 @@
     color: var(--primary-black);
   }
   #sidebar .profile-img {
-    width: 80% !important;
+    width: 100% !important;
     height: auto !important;
     object-fit: cover;
+    aspect-ratio: 1 / 1;
   }
   #sidebar #counter .title {
     font-size: 0.875rem;
@@ -1705,7 +1699,8 @@
     font-size: 0.875rem;
     line-height: 1.25rem;
     color: transparent;
-    background: linear-gradient(-45deg, #f08f72, #f372a3, rgb(143, 211, 244), rgb(132, 250, 176));
+    /* background: linear-gradient(-45deg, #f08f72, #f372a3, rgb(143, 211, 244), rgb(132, 250, 176)); */
+    background: var(--primary-black);
     background-clip: text;
     -webkit-background-clip: text;
     background-size: 250% 500%;
@@ -1763,7 +1758,7 @@
     border: 0.1rem solid #c9c9c9;
     border-color: var(--primary-lightgrey);
     background-color: var(--primary-blur);
-    transition: all 0.2s;
+    /* transition: all 0.2s; */
   }
   @media screen and (max-width: 767px) {
     .post {
@@ -1772,7 +1767,7 @@
   }
   .post:hover {
     border: 0.1rem solid var(--primary-black);
-    box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2);
+    /* box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2); */
   }
   .post .blind-link {
     position: absolute;
@@ -1792,7 +1787,7 @@
     height: 100%;
     opacity: 0;
     visibility: hidden;
-    transition: all 0.2s;
+    /* transition: all 0.2s; */
     object-fit: scale-down !important;
   }
   .post:hover .thumbnail img {
@@ -1902,9 +1897,9 @@
     margin: 2.5rem 0;
     font-size: 0;
     line-height: 0;
-    background: url(./images/dashed-hr-line.png) 0 0 no-repeat;
+    background: url(./images/hr-line.png) 0 0 no-repeat;
     background-size: cover;
-    cursor: url(https://cur.cursors-4u.net/others/oth-6/oth638.cur), auto !important;
+    /* cursor: url(https://cur.cursors-4u.net/others/oth-6/oth638.cur), auto !important; */
   }
   #content .contents_style h2 {
     font-size: 1.5rem !important;
@@ -1959,7 +1954,7 @@
   #content .contents_style span {
     margin: 1.5rem 0;
     line-height: 1.7;
-    letter-spacing: 0.3px;
+    letter-spacing: 0;
   }
   #content .contents_style p span[style^='background-color'] {
     text-decoration: underline;
@@ -2150,8 +2145,8 @@
     width: 120px !important;
     height: 120px !important;
     border-right: 1px solid var(--primary-lightgrey);
-    background-image: url(./images/cookie.png) !important;
-    background-size: contain !important;
+    /* background-image: url(./images/2023_profile.png) !important; */
+    background-size: cover !important;
     transition: 0.2s;
   }
   #content .contents_style figure[data-ke-type='opengraph'] .og-text {
@@ -2537,6 +2532,9 @@
     content: var(--tw-content);
   }
   /* article-footer */
+  div[data-tistory-react-app] {
+    display: none !important;
+  }
   .article-footer {
     width: 100%;
   }
@@ -2673,25 +2671,24 @@
   }
   /* footer-paging */
   #paging {
-    font-family: 'Bungee', 'SDSamliphopangche_Outline';
   }
   #paging a {
     display: inline-block;
   }
   #paging span {
-    font-size: 0.875rem;
-    line-height: 1.25rem;
+    font-size: 0.5rem;
+    line-height: 1rem;
   }
   #paging i,
   #paging span {
-    width: 2rem;
-    height: 2rem;
+    width: 1.5rem;
+    height: 1.5rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
     font-size: 1rem;
-    line-height: 2rem;
+    line-height: 1.5rem;
     text-align: center;
-    color: var(--primary-black);
+    color: var(--primary-grey);
   }
   #paging span:not(.selected) {
     display: none;
@@ -2704,8 +2701,8 @@
   #paging .selected {
     display: inline-block;
     border-radius: 9999px;
-    color: var(--pure-white);
-    background-color: var(--primary-black);
+    font-weight: bold;
+    color: var(--primary-black);
   }
   .article-page .title-footer {
     margin-bottom: 15px;
@@ -2859,7 +2856,8 @@
     min-height: 100vh;
   }
   .kyle-background {
-    background-image: linear-gradient(120deg, rgb(132, 250, 176) 0%, rgb(143, 211, 244) 100%);
+    /* background-image: linear-gradient(120deg, rgb(132, 250, 176) 0%, rgb(143, 211, 244) 100%); */
+    background-image: linear-gradient(120deg, var(--primary-yellow) 0%, var(--primary-yellow) 100%);
     background-repeat: no-repeat;
     background-position: 0px 50%;
     background-size: 100% 20%;

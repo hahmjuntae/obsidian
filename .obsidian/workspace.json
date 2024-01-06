@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "npm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md"
+                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md"
               }
             }
           }
@@ -156,8 +156,20 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
-    "developer/Vue/[Vue] watch의 추가옵션.md",
     "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
+    "assets/tistory/skin/custom/images/vendor.dd733fdffcb4fac8fb03.js",
+    "assets/tistory/skin/custom/images/script.K1eQzb5l2g5r797j09M2.js",
+    "assets/tistory/skin/custom/images/loading.gif",
+    "assets/tistory/skin/custom/images/kyle.js",
+    "assets/tistory/skin/custom/images/hr-line.png",
+    "assets/tistory/skin/custom/images/app.dd733fdffcb4fac8fb03.js",
+    "assets/tistory/skin/custom/images/2023_profile.png",
+    "assets/tistory/skin/custom/style.css",
+    "assets/tistory/skin/custom/skin.html",
+    "assets/tistory/skin/custom/index.xml",
+    "assets/tistory/skin/custom/images",
+    "assets/tistory/skin/custom",
+    "developer/Vue/[Vue] watch의 추가옵션.md",
     "developer/OS/[Mac] zsh 환경 설정.md",
     "developer/OS/[Mac] 개발환경 설정.md",
     "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
@@ -173,20 +185,8 @@
     "assets/tistory/thumbnail/vscode.png",
     "assets/tistory/thumbnail/백준.png",
     "assets/tistory/thumbnail/프로그래머스.jpeg",
-    "assets/tistory/thumbnail/프로그래머스.jpeg.crdownload",
-    "assets/tistory/thumbnail/ui.png",
-    "assets/tistory/thumbnail/http.png",
-    "assets/tistory/thumbnail/web.png.sb-6fba5776-u6DEvt",
-    "assets/tistory/thumbnail/web.png",
-    "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
-    "assets/tistory/thumbnail/_thumbnail-creator.pptx",
-    "assets/tistory/thumbnail/__thumbnail-creator.pptx",
-    "assets/tistory/thumbnail/thumbnail-creator.pptx",
-    "assets/tistory/thumbnail/~$thumbnail-creator.pptx",
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
-    "developer/DB",
-    "assets/tistory/thumbnail/axios.png.crdownload",
     "developer/NodeJS/[NPM] npm global 설치 에러.md",
     "developer/FE/[FE] ESLint와 TSLint.md",
     "_template/99_troubleshooting.md",
@@ -200,7 +200,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md",
     "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md",
     "docs/project/java-metacommerce/04_BE/api_logic/order_withdrawal/order_withdrawal.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/order/order.md"
+    "docs/project/java-metacommerce/04_BE/api_logic/order_dormant/order_dormant.md"
   ]
 }
