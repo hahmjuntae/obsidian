@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "ba7bfae7f02362d0",
+            "id": "f8b708e183dee5e3",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -66,14 +66,15 @@
             }
           },
           {
-            "id": "f0e92bdb341b2fdf",
+            "id": "f9db21faeaa1f1c5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -117,7 +118,15 @@
             }
           },
           {
-            "id": "d38d87383da704fc",
+            "id": "0374600d81f198b5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5808bed0dd75737e",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -125,17 +134,9 @@
                 "file": "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md"
               }
             }
-          },
-          {
-            "id": "0374600d81f198b5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",

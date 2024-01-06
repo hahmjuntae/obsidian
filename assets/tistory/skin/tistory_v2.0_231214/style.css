@@ -1954,7 +1954,7 @@
   #content .contents_style span {
     margin: 1.5rem 0;
     line-height: 1.7;
-    letter-spacing: 0.3px;
+    letter-spacing: 0;
   }
   #content .contents_style p span[style^='background-color'] {
     text-decoration: underline;
