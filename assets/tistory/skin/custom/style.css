@@ -1902,13 +1902,13 @@
     /* cursor: url(https://cur.cursors-4u.net/others/oth-6/oth638.cur), auto !important; */
   }
   #content .contents_style h2 {
-    font-size: 1.5rem !important;
+    font-size: 1.4rem !important;
   }
   #content .contents_style h3 {
     font-size: 1.3rem !important;
   }
   #content .contents_style h4 {
-    font-size: 1.1rem !important;
+    font-size: 1.2rem !important;
   }
   #content .contents_style h2,
   #content .contents_style h3,
@@ -2016,6 +2016,7 @@
     text-decoration-thickness: 10px;
     text-decoration-skip-ink: none;
   }
+
   #content .contents_style p a::before,
   #content .contents_style ol[data-ke-list-type] a::before,
   #content .contents_style ul[data-ke-list-type] a::before,
@@ -2255,13 +2256,13 @@
     position: relative;
     width: 100%;
     height: auto;
-    margin-bottom: 1rem !important;
-    padding: 20px 30px 20px 30px;
-    border: 2px solid var(--primary-green);
+    padding: 20px 30px;
+    /* border: 2px solid var(--primary-green); */
     color: var(--primary-black);
     background-color: var(--pure-white);
-    box-shadow: 13px 13px 0 0 white, 15px 15px 0 0 var(--primary-green), 15px 11px 0 0 var(--primary-green),
-      11px 15px 0 0 var(--primary-green);
+    /* box-shadow: 13px 13px 0 0 white, 15px 15px 0 0 var(--primary-green), 15px 11px 0 0 var(--primary-green), 11px 15px 0 0 var(--primary-green); */
+    margin-bottom: 1rem !important;
+    font-size: 1rem;
   }
   #content .contents_style blockquote[data-ke-style][data-ke-style='style1']::before,
   #content .contents_style blockquote[data-ke-style][data-ke-style='style2']::before,
@@ -2289,8 +2290,8 @@
     color: var(--primary-black);
   }
   #content .contents_style pre code {
-    margin: 1.5rem 0;
-    padding: 1rem;
+    margin: 1.2rem 0;
+    padding: 0.8rem;
     line-height: 1.5;
   }
   code,
@@ -2682,7 +2683,8 @@
   }
   #paging i,
   #paging span {
-    width: 1.5rem;
+    min-width: 1.5rem;
+    width: max-content;
     height: 1.5rem;
     margin-right: 0.25rem;
     margin-left: 0.25rem;
@@ -2692,7 +2694,7 @@
     color: var(--primary-grey);
   }
   #paging span:not(.selected) {
-    display: none;
+    /* display: none; */
   }
   @media (min-width: 1024px) {
     #paging span:not(.selected) {
@@ -2904,4 +2906,3 @@
     }
   }
 }
-
