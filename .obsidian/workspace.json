@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "design/[PS] 사진 테두리 Blur 처리하기.md",
+                "file": "developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "design/[PS] 사진 테두리 Blur 처리하기.md",
+                "file": "developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "design/[PS] 사진 테두리 Blur 처리하기.md",
+                "file": "developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "design/[PS] 사진 테두리 Blur 처리하기.md"
+                "file": "developer/Vue/[Vue] 이벤트 핸들러 조건처리.md"
               }
             }
           }
@@ -155,8 +155,10 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
-    "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
     "design/[PS] 사진 테두리 Blur 처리하기.md",
+    "assets/wallpaper/nothing.webp",
+    "assets/wallpaper/do more.jpeg",
+    "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
     "design",
     "developer/Vue/design.md",
     "developer/Vue/[Vue] LifeCycle Hooks.md",
@@ -186,8 +188,6 @@
     "_template/프로그래머스.md",
     "assets/tistory/thumbnail/xcode.png",
     "assets/tistory/thumbnail/sourcetree.png",
-    "assets/tistory/thumbnail/vscode.png",
-    "assets/tistory/thumbnail/백준.png",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
     "developer/FE/[FE] ESLint와 TSLint.md",
@@ -199,7 +199,6 @@
     "developer/HTML/HTML.md",
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
     "docs/project/java-metacommerce/04_BE/api_logic/system/system.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md"
+    "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md"
   ]
 }
