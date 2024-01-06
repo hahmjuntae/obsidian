@@ -1,10 +1,11 @@
 ---
 tistoryBlogName: kyledev
 tistoryTitle: "[Git] SSH Key 생성 및 추가"
-tistoryVisibility: "0"
-tistoryCategory: "1110506"
+tistoryVisibility: "3"
+tistoryCategory: "1106795"
 tistoryPostId: "243"
 tistoryPostUrl: https://kyledev.tistory.com/243
+tistoryTags: git,ssh,github,ssh-keygen,permission denied
 ---
 ## 문제
 새로운 맥을 구입 한 후 깃에서 클론 하려는데 권한 에러가 발생했다.
