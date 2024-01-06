@@ -3,11 +3,12 @@ tistoryBlogName: kyledev
 tistoryTitle: "[Mac] zsh 환경 설정"
 tistoryTags: zsh,zshrc,mac,맥북,m2,개발환경
 tistoryVisibility: "3"
-tistoryCategory: "1179344"
+tistoryCategory: "0"
 tistoryPostId: "248"
 tistoryPostUrl: https://kyledev.tistory.com/248
+tistorySkipModal: true
 ---
-MacOS Catalina부터 기본 쉘로 Zsh가 도입되었다.
+==MacOS Catalina부터 기본 쉘로 Zsh가 도입되었다.==
 많은 사용자가 Oh My Zsh를 사용해 환경을 구성하지만, 느린 터미널 속도와 불필요한 플러그인으로 인해 필요한 기능만 설정하여 사용하는 것이 바람직하다.
 
 ## zsh 폴더 설정

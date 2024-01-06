@@ -105,6 +105,18 @@
   small {
     font-size: 80%;
   }
+  mark {
+    text-align: center !important;
+    background-color: transparent;
+    display: block;
+    font-weight: bold !important;
+    text-decoration: underline;
+    text-underline-position: unset;
+    text-underline-offset: -10px;
+    text-decoration-color: var(--primary-skyblue);
+    text-decoration-thickness: 10px;
+    text-decoration-skip-ink: none;
+  }
   sub,
   sup {
     position: relative;

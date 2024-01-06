@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md",
+                "file": "developer/OS/[Mac] zsh 환경 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "npm",
+                "query": "zsh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md",
+                "file": "developer/OS/[Mac] zsh 환경 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md",
+                "file": "developer/OS/[Mac] zsh 환경 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/NodeJS/[NPM] npm global 설치 에러.md"
+                "file": "developer/OS/[Mac] zsh 환경 설정.md"
               }
             }
           }
@@ -156,6 +156,8 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "developer/OS/[Mac] 개발환경 설정.md",
+    "developer/NodeJS/[NPM] npm global 설치 에러.md",
     "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
     "assets/tistory/skin/custom/images/vendor.dd733fdffcb4fac8fb03.js",
     "assets/tistory/skin/custom/images/script.K1eQzb5l2g5r797j09M2.js",
@@ -171,7 +173,6 @@
     "assets/tistory/skin/custom",
     "developer/Vue/[Vue] watch의 추가옵션.md",
     "developer/OS/[Mac] zsh 환경 설정.md",
-    "developer/OS/[Mac] 개발환경 설정.md",
     "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
     "assets/tistory/thumbnail/private.jpeg",
     "assets/tistory/thumbnail/private.jpeg.crdownload",
@@ -187,7 +188,6 @@
     "assets/tistory/thumbnail/프로그래머스.jpeg",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
-    "developer/NodeJS/[NPM] npm global 설치 에러.md",
     "developer/FE/[FE] ESLint와 TSLint.md",
     "_template/99_troubleshooting.md",
     "_template/00_none.md",
