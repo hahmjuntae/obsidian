@@ -1,3 +1,12 @@
+---
+tistoryBlogName: kyledev
+tistoryTitle: "[NPM] npm global 설치 에러"
+tistoryTags: npm,nodejs,node,global,permission denied
+tistoryVisibility: "3"
+tistoryCategory: "1111018"
+tistoryPostId: "244"
+tistoryPostUrl: https://kyledev.tistory.com/244
+---
 ## 문제
 `Error: EACCES: permission denied`
 
@@ -63,5 +72,3 @@ source ~/.profile
 
 ## 참고
 [https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
-
-

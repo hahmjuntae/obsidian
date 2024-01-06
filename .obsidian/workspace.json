@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "file": "developer/Git/[Git] SSH Key 생성 및 추가.md",
                 "mode": "source",
                 "source": false
               }
@@ -58,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "해결방안",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "file": "developer/Git/[Git] SSH Key 생성 및 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "file": "developer/Git/[Git] SSH Key 생성 및 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/NodeJS/[TR] npm global 설치 에러.md"
+                "file": "developer/Git/[Git] SSH Key 생성 및 추가.md"
               }
             }
           },
@@ -164,12 +163,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4e77924046e51838",
+  "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "developer/FE/[FE] ESLint와 TSLint.md",
+    "developer/Git/[Git] SSH Key 생성 및 추가.md",
+    "developer/NodeJS/[NPM] npm global 설치 에러.md",
     "_template/99_troubleshooting.md",
     "_template/00_none.md",
-    "developer/Git/[Git].md",
-    "developer/NodeJS/[TR] npm global 설치 에러.md",
     "developer/Git",
     "docs/project/imnewrun/03_GUI/Typhography.md",
     "developer/NodeJS",
@@ -210,7 +210,6 @@
     "developer/HTML/[HTML] script태그의 속성.md",
     "developer/Shell/[PowerShell] 확장자 일괄변경.md",
     "developer/HTTP/[HTTP] HTTP 코드 정리.md",
-    "Vault.md",
-    "developer/Vue/[Vue] watch.md"
+    "Vault.md"
   ]
 }
