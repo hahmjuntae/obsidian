@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/project/imnewrun/03_GUI/Typhography.md",
-                "mode": "preview",
+                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -29,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "developer/NodeJS/[TR] npm global 설치 에러.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "developer/NodeJS/[TR] npm global 설치 에러.md"
+              }
             }
           },
           {
@@ -162,10 +165,12 @@
   },
   "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
+    "docs/project/imnewrun/03_GUI/Typhography.md",
+    "developer/NodeJS/[TR] npm global 설치 에러.md",
+    "developer/NodeJS",
     "developer/OS",
     "developer/무제 파일.md",
     "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
-    "docs/project/imnewrun/03_GUI/Typhography.md",
     "docs/project/imnewrun/01_PM/~$IMNEWRUN_WBS_v0.10_231219.xlsx",
     "assets/mac/automator/ChatGPT.app/Icon\r",
     "assets/mac/automator/ChatGPT.app/Contents/_CodeSignature/CodeResources",
@@ -174,8 +179,6 @@
     "assets/mac/automator/ChatGPT.app/Contents/Resources/zh_CN.lproj",
     "assets/mac/automator/ChatGPT.app/Contents/Resources/vi.lproj",
     "assets/mac/automator/ChatGPT.app/Contents/Resources/uk.lproj",
-    "assets/mac/automator/ChatGPT.app/Contents/Resources/tr.lproj",
-    "assets/mac/automator/ChatGPT.app/Contents/Resources/th.lproj",
     "developer/HTML/HTML.md",
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
     "developer/Build/[Vite] 디버그 옵션 추가.md",
