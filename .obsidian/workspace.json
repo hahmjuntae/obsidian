@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_template/프로그래머스.md",
+                "file": "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_template/프로그래머스.md",
+                "file": "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_template/프로그래머스.md",
+                "file": "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_template/프로그래머스.md"
+                "file": "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md"
               }
             }
           },
@@ -155,11 +155,16 @@
   },
   "active": "70a1f0c8907f16a6",
   "lastOpenFiles": [
+    "developer/CSS/[CSS] Flex.md",
+    "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
+    "developer/Build/[Vite] 디버그 옵션 추가.md",
+    "developer/CSS/[CSS] 이미지 종횡비 1대1로 맞추기.md",
+    "developer/OS/[Mac] 개발환경 설정.md",
+    "assets/tistory/thumbnail/interview.png",
+    "_template/프로그래머스.md",
     "assets/tistory/thumbnail/xcode.png",
     "assets/tistory/thumbnail/sourcetree.png",
     "assets/tistory/thumbnail/vscode.png",
-    "developer/OS/[MAC] 개발환경 설정.md",
-    "_template/프로그래머스.md",
     "assets/tistory/thumbnail/백준.png",
     "assets/tistory/thumbnail/프로그래머스.jpeg",
     "assets/tistory/thumbnail/프로그래머스.jpeg.crdownload",
@@ -168,8 +173,6 @@
     "assets/tistory/thumbnail/web.png.sb-6fba5776-u6DEvt",
     "assets/tistory/thumbnail/web.png",
     "assets/tistory/thumbnail/fe-interview.png",
-    "assets/tistory/thumbnail/sass.png",
-    "assets/tistory/thumbnail/css3.png",
     "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
     "assets/tistory/thumbnail/_thumbnail-creator.pptx",
@@ -189,7 +192,6 @@
     "docs/project/imnewrun/01_PM/IMNEWRUN_KICK-OFF_231219.md",
     "developer/HTML/HTML.md",
     "docs/project/imnewrun/03_GUI/Typhography 1.md",
-    "developer/Build/[Vite] 디버그 옵션 추가.md",
     "docs/project/java-metacommerce/04_BE/api_logic/system/system.md",
     "docs/project/java-metacommerce/04_BE/api_logic/seller/seller.md",
     "docs/project/java-metacommerce/04_BE/api_logic/promotion/promotion.md",
@@ -198,8 +200,6 @@
     "docs/project/java-metacommerce/04_BE/api_logic/order/order.md",
     "docs/project/java-metacommerce/04_BE/api_logic/goods/goods.md",
     "docs/project/java-metacommerce/04_BE/api_logic/display/display.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/cs/cs.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/buyer/buyer.md",
-    "docs/project/java-metacommerce/04_BE/api_logic/admin/admin.md"
+    "docs/project/java-metacommerce/04_BE/api_logic/cs/cs.md"
   ]
 }

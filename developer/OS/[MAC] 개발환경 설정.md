@@ -1,6 +1,6 @@
 ---
 tistoryBlogName: kyledev
-tistoryTitle: "[MAC] 개발환경 설정"
+tistoryTitle: "[Mac] 개발환경 설정"
 tistoryTags: mac,맥북,개발환경,devroot,zsh
 tistoryVisibility: "3"
 tistoryCategory: "1107241"
