@@ -11,8 +11,12 @@
             "id": "da4f0ae976b4e3e7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "developer/Vue/[Vue] markRaw.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "developer/Vue/[Vue] markRaw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "developer/Vue/[Vue] markRaw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "developer/Vue/[Vue] markRaw.md"
               }
             }
           }
@@ -147,7 +153,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0a48ea2d4f9234a7",
+  "active": "da4f0ae976b4e3e7",
   "lastOpenFiles": [
     "무제 파일.md",
     "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
