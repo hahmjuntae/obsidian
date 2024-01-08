@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "developer/Vue/[Vue] markRaw.md",
+                "file": "personal/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "developer/Vue/[Vue] markRaw.md",
+                "file": "personal/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "developer/Vue/[Vue] markRaw.md",
+                "file": "personal/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "developer/Vue/[Vue] markRaw.md"
+                "file": "personal/TODO.md"
               }
             }
           }
@@ -155,9 +155,11 @@
   },
   "active": "da4f0ae976b4e3e7",
   "lastOpenFiles": [
+    "developer/Vue/[Vue] markRaw.md",
+    "personal/TODO.md",
+    "personal",
     "무제 파일.md",
     "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
-    "developer/Vue/[Vue] markRaw.md",
     "developer/Vue/[Vue] LifeCycle Hooks.md",
     "developer/Vue/[Vue] LifeCycle 생명주기.md",
     "developer/Vue/[Vue] keep-alive의 속성.md",
@@ -186,7 +188,6 @@
     "assets/tistory/skin/custom/style.css",
     "assets/tistory/skin/custom/skin.html",
     "assets/tistory/skin/custom/index.xml",
-    "assets/tistory/skin/custom/images",
     "developer/Vue/[Vue] watch의 추가옵션.md",
     "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
     "assets/tistory/thumbnail/private.jpeg",
@@ -199,7 +200,6 @@
     "assets/tistory/thumbnail/sourcetree.png",
     "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
     "developer/Git/[Git] SSH Key 생성 및 추가.md",
-    "developer/FE/[FE] ESLint와 TSLint.md",
-    "_template/99_troubleshooting.md"
+    "developer/FE/[FE] ESLint와 TSLint.md"
   ]
 }
