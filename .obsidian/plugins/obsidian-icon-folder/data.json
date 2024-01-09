@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiCode",
+      "SiAdobecreativecloud",
+      "SiAdobephotoshop",
+      "SiApple",
+      "LiWallpaper"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": true,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true
+  },
+  "_template": "LiLayoutTemplate",
+  "assets": {
+    "iconName": "LiRocket",
+    "iconColor": "#ff0000"
+  },
+  "assets/fonts": "CoFont",
+  "assets/image": "LiImage",
+  "assets/mac": "SiApple",
+  "assets/tistory": "SiTistory",
+  "assets/wallpaper": "LiWallpaper",
+  "adobe": "SiAdobecreativecloud",
+  "developer": "TiCode"
+}
