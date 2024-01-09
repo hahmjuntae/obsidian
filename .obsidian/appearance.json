@@ -1,12 +1,13 @@
 {
-  "accentColor": "#000000",
+  "accentColor": "#007bff",
   "interfaceFontFamily": "LINE Seed Sans KR",
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "LINE Seed Sans KR",
   "translucency": false,
   "enabledCssSnippets": [
     "backlink-pane-large_size_font",
-    "hahmjuntae_obsidian"
+    "hahmjuntae_obsidian",
+    "Extended Colorschemes"
   ],
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
