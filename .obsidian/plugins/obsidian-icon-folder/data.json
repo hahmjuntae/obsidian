@@ -6,6 +6,10 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarImage",
+      "RiFontSize",
+      "FasToolbox",
+      "TiTemplate",
       "😀",
       "SiAdobecreativecloud",
       "Fab42Group",
@@ -26,9 +30,8 @@
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
   },
-  "_template": "LiLayoutTemplate",
-  "assets/fonts": "CoFont",
-  "assets/image": "LiImage",
+  "assets/fonts": "RiFontSize",
+  "assets/image": "FarImage",
   "assets/mac": "SiApple",
   "assets/tistory": "SiTistory",
   "assets/wallpaper": "LiWallpaper",
@@ -36,5 +39,6 @@
   "docs": "IbDocumentText",
   "personal": "RiGitRepositoryPrivateFill",
   "adobe": "SiAdobecreativecloud",
-  "assets": "SiAdobecreativecloud"
+  "_template": "TiTemplate",
+  "assets": "FasToolbox"
 }
