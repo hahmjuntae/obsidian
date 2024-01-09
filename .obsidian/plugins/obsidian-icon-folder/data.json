@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "Fab42Group",
       "RiGitRepositoryPrivateFill",
       "RiGitRepositoryPrivateLine",
       "RiChatPrivateLine",
-      "RiAccountCircleLine",
-      "IbDocumentText"
+      "RiAccountCircleLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -23,7 +23,7 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
   },
   "_template": "LiLayoutTemplate",
@@ -36,7 +36,7 @@
   "assets/mac": "SiApple",
   "assets/tistory": "SiTistory",
   "assets/wallpaper": "LiWallpaper",
-  "adobe": "SiAdobecreativecloud",
+  "adobe": "Fab42Group",
   "developer": "FasLaptopCode",
   "docs": "IbDocumentText",
   "personal": "RiGitRepositoryPrivateFill"
