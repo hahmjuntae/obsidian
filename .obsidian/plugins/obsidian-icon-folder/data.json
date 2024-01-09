@@ -3,7 +3,7 @@
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "twemoji",
+    "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
       "😀",
@@ -12,7 +12,7 @@
       "RiGitRepositoryPrivateFill",
       "RiGitRepositoryPrivateLine"
     ],
-    "recentlyUsedIconsSize": 5,
+    "recentlyUsedIconsSize": 10,
     "rules": [],
     "extraMargin": {
       "top": 0,
