@@ -11,11 +11,9 @@
             "id": "5c3766be4fbb0c58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Notion/Home/All DB/Categories/Movie.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.png"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Home/All DB/Categories/Movie.md",
+                "file": "Untitled.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Home/All DB/Categories/Movie.md",
+                "file": "Untitled.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Home/All DB/Categories/Movie.md"
+                "file": "Untitled.png"
               }
             }
           }
@@ -154,10 +152,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "0a48ea2d4f9234a7",
+  "active": "5c3766be4fbb0c58",
   "lastOpenFiles": [
-    "Notion/Home/All DB/Categories/서울의 봄.md",
     "Notion/Home/All DB/Categories/Movie.md",
+    "I.app/Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib",
+    "I.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib",
+    "I.app/Contents/Resources/Base.lproj/Main.storyboardc/MainMenu.nib",
+    "I.app/Contents/Resources/Base.lproj/Main.storyboardc/Info.plist",
+    "I.app/Contents/Resources/Base.lproj/Main.storyboardc",
+    "I.app/Contents/Resources/Base.lproj",
+    "I.app/Contents/Resources/Assets.car",
+    "I.app/Contents/Resources/AppIcon.icns",
+    "I.app/Contents/_CodeSignature/CodeResources",
+    "I.app/Contents/MacOS/VerticalBar",
+    "Notion/Home/All DB/Categories/서울의 봄.md",
     "Notion/Home/All DB/Categories/Book.md",
     "Notion/Home/All DB/Review/당신은 결국 무엇이든 해내는 사람.md",
     "Notion/Home/All DB/Review/노량.md",
@@ -180,7 +188,6 @@
     "Untitled 1.png",
     "Untitled.png",
     "Untitled 4.png",
-    "I.app.zip",
     "Untitled 3.png",
     "Untitled 2 2.png",
     "Untitled 2.png",
@@ -191,16 +198,6 @@
     "Notion/Home/All DB/Review/이무진의 별책부록.md",
     "Notion/Home/All DB/Review/사각형.md",
     "Notion/Home/All DB/Review/트렌드코리아 2024.md",
-    "Notion/Home/All DB/Review/어쩌면 우린 헤어졌는지 모른다.md",
-    "Notion/Home/All DB/Review/소울메이트.md",
-    "Notion/Home/All DB/Todo",
-    "Notion/Home/All DB/Categories",
-    "Notion/Home/All DB/Review",
-    "Notion/Home/All DB/Daylog",
-    "Notion/Home/All DB",
-    "Notion/Home/DisplayLink setting",
-    "Notion/Home/Dock setting",
-    "Notion/Home/Aldente setting",
-    "Notion/Home/Karabiner key binding"
+    "Notion/Home/All DB/Review/어쩌면 우린 헤어졌는지 모른다.md"
   ]
 }

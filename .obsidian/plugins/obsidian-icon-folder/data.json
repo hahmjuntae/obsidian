@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiCode",
-      "SiAdobecreativecloud",
-      "SiAdobephotoshop",
-      "SiApple",
-      "LiWallpaper"
+      "RiGitRepositoryPrivateFill",
+      "RiGitRepositoryPrivateLine",
+      "RiChatPrivateLine",
+      "RiAccountCircleLine",
+      "IbDocumentText"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,7 @@
   "assets/tistory": "SiTistory",
   "assets/wallpaper": "LiWallpaper",
   "adobe": "SiAdobecreativecloud",
-  "developer": "TiCode"
+  "developer": "FasLaptopCode",
+  "docs": "IbDocumentText",
+  "personal": "RiGitRepositoryPrivateFill"
 }
