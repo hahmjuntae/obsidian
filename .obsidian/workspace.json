@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "e514c0487eaaf21d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Home/test theme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "66d43e2a30b3295a",
             "type": "leaf",
             "state": {
@@ -39,8 +27,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Home/test theme.md",
+                "file": "Notion/Home/개인.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Home/test theme.md",
+                "file": "Notion/Home/개인.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Home/test theme.md"
+                "file": "Notion/Home/개인.md"
               }
             }
           }
@@ -174,10 +161,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "e514c0487eaaf21d",
+  "active": "846f0790c8681dd9",
   "lastOpenFiles": [
-    "Notion/Home/개인.md",
+    "_template/TODO.md",
+    "_template/00_none.md",
+    "_template/99_troubleshooting.md",
+    "_template/프로그래머스.md",
     "Notion/Home/test theme.md",
+    "Notion/Home/개인.md",
     "personal/TODO.md",
     "Untitled 1 3.png",
     "Untitled.png",
@@ -217,10 +208,6 @@
     "Notion/Home/All DB/Daylog/오늘의 일기 5.md",
     "Notion/Home/All DB/Daylog/오늘의 일기 3.md",
     "Notion/Home/All DB/Daylog/오늘의 일기 2.md",
-    "Notion/Home/All DB/Daylog/오늘의 일기.md",
-    "Notion/Home/All DB/Categories/Stage.md",
-    "Notion/Home/All DB/Todo/2024’ W01 2.md",
-    "Notion/Home/All DB/Todo/2024’ W01.md",
-    "Notion/Home/All DB/Todo/2023’ W52.md"
+    "Notion/Home/All DB/Daylog/오늘의 일기.md"
   ]
 }
