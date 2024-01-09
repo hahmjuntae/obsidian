@@ -66,15 +66,7 @@
             }
           },
           {
-            "id": "da8234cfbc74b664",
-            "type": "leaf",
-            "state": {
-              "type": "mk-path-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "18a2604acc6e4bce",
+            "id": "fa43e9bebe6a4bfe",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -82,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
