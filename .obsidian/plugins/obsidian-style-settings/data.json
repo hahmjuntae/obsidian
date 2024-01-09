@@ -61,5 +61,12 @@
   "anuppuccin-theme-settings@@anp-disable-newtab-align": true,
   "anuppuccin-theme-settings@@anp-depth-tab-text-invert": false,
   "anuppuccin-theme-settings@@anp-safari-tab-animated": true,
-  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-accent"
+  "anp-custom-rainbow-colors@@rainbow-color-1-default": "rainbow-color-1-accent",
+  "anuppuccin-theme-settings@@ctp-custom-overlay0@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-overlay1@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-overlay2@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-subtext0@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-subtext1@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-text@@light": "#000000",
+  "anuppuccin-theme-settings@@ctp-custom-surface2@@light": "#000000"
 }
