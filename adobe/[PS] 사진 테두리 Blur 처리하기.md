@@ -9,3 +9,9 @@
 9. option + 레이어 마스크 클릭 후 붙여넣기
 10. export할 레이어 고급 개체로 변환 (smart object)
 11. 빠른 png 내보내기
+
+![대체 텍스트](이미지 URL)
+
+
+
+[asdf](URL)
