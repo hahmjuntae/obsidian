@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c1831ec3169b0d87",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "5c3766be4fbb0c58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notion/Home/계좌 관리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "fe5025eec5f95bde",
         "type": "tabs",
         "children": [
@@ -29,9 +11,11 @@
             "id": "846f0790c8681dd9",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 2.png"
+                "file": "personal/TODO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -82,15 +66,14 @@
             }
           },
           {
-            "id": "f9db21faeaa1f1c5",
+            "id": "283f40747709a657",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notion/Home/계좌 관리.md",
+                "file": "personal/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Home/계좌 관리.md",
+                "file": "personal/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notion/Home/계좌 관리.md"
+                "file": "personal/TODO.md"
               }
             }
           }
@@ -168,17 +151,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5c3766be4fbb0c58",
+  "active": "0a48ea2d4f9234a7",
   "lastOpenFiles": [
+    "Untitled.png",
+    "Untitled 1.png",
+    "Untitled 1 3.png",
+    "Untitled 1 2.png",
     "Untitled 2.png",
+    "Untitled 2 2.png",
+    "Untitled 2 3.png",
+    "Untitled 3.png",
+    "Untitled 4.png",
+    "Untitled 5.png",
     "Notion/Home/계좌 관리.md",
     "Notion/Home/개인.md",
     "Notion/Home/All DB/Daylog/오늘의 일기 4.md",
     "Notion/Home/Aldente setting/Aldente setting.md",
     "Notion/Home/고정지출.md",
     "Notion/Home/구독.md",
-    "Untitled.png",
-    "Untitled 1.png",
     "Notion/Home/All DB/Categories/Movie.md",
     "I.app/Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib",
     "I.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib",
@@ -204,13 +194,6 @@
     "Notion/Home/All DB/Daylog/오늘의 일기 2.md",
     "Notion/Home/All DB/Daylog/오늘의 일기.md",
     "Notion/Home/All DB/Categories/Stage.md",
-    "Untitled 5.png",
-    "Untitled 2 3.png",
-    "Untitled 1 3.png",
-    "Untitled 1 2.png",
-    "Untitled 4.png",
-    "Untitled 3.png",
-    "Untitled 2 2.png",
     "Notion/Home/All DB/Todo/2024’ W01 2.md",
     "Notion/Home/All DB/Todo/2024’ W01.md",
     "Notion/Home/All DB/Todo/2023’ W52.md",
