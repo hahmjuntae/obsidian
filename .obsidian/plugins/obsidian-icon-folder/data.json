@@ -3,14 +3,14 @@
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiAdobecreativecloud",
       "Fab42Group",
       "RiGitRepositoryPrivateFill",
       "RiGitRepositoryPrivateLine",
-      "RiChatPrivateLine",
-      "RiAccountCircleLine"
+      "RiChatPrivateLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,8 +20,8 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": true,
-    "iconInTitleEnabled": true,
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true
@@ -36,7 +36,7 @@
   "assets/mac": "SiApple",
   "assets/tistory": "SiTistory",
   "assets/wallpaper": "LiWallpaper",
-  "adobe": "Fab42Group",
+  "adobe": "SiAdobecreativecloud",
   "developer": "FasLaptopCode",
   "docs": "IbDocumentText",
   "personal": "RiGitRepositoryPrivateFill"
