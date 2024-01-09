@@ -1,5 +1,4 @@
 [
-  "obsidian-imgur-plugin",
   "copy-document-as-html",
   "dataview",
   "make-md",
@@ -13,5 +12,6 @@
   "obsidian-git",
   "templater-obsidian",
   "obsidian-importer",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-imgur-plugin"
 ]
