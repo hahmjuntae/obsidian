@@ -3,14 +3,14 @@
     "migrated": 3,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "native",
+    "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "😀",
       "SiAdobecreativecloud",
       "Fab42Group",
       "RiGitRepositoryPrivateFill",
-      "RiGitRepositoryPrivateLine",
-      "RiChatPrivateLine"
+      "RiGitRepositoryPrivateLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,17 +27,14 @@
     "iconsInNotesEnabled": true
   },
   "_template": "LiLayoutTemplate",
-  "assets": {
-    "iconName": "LiRocket",
-    "iconColor": "#ff0000"
-  },
   "assets/fonts": "CoFont",
   "assets/image": "LiImage",
   "assets/mac": "SiApple",
   "assets/tistory": "SiTistory",
   "assets/wallpaper": "LiWallpaper",
-  "adobe": "SiAdobecreativecloud",
   "developer": "FasLaptopCode",
   "docs": "IbDocumentText",
-  "personal": "RiGitRepositoryPrivateFill"
+  "personal": "RiGitRepositoryPrivateFill",
+  "adobe": "😀",
+  "assets": "SiAdobecreativecloud"
 }
