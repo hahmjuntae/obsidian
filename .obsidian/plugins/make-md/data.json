@@ -10,7 +10,7 @@
   "inlineStyler": true,
   "makerMode": true,
   "spacesMDBInHidden": true,
-  "inlineStylerColors": false,
+  "inlineStylerColors": true,
   "editorFlow": true,
   "internalLinkClickFlow": true,
   "contextEnabled": false,
@@ -46,7 +46,10 @@
     "//assets/assets/mac",
     "//assets",
     "//developer",
-    "//developer"
+    "//developer",
+    "//assets",
+    "//assets",
+    "//assets"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
