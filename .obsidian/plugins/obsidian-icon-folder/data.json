@@ -23,7 +23,7 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true
   },
   "_template": "LiLayoutTemplate",
