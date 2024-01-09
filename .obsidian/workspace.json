@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "031241a42a8964ae",
+        "id": "c1831ec3169b0d87",
         "type": "tabs",
         "children": [
           {
-            "id": "da4f0ae976b4e3e7",
+            "id": "5c3766be4fbb0c58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "personal/TODO.md",
+                "file": "Notion/Home/All DB/Categories/Movie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "personal/TODO.md",
+                "file": "Notion/Home/All DB/Categories/Movie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "personal/TODO.md",
+                "file": "Notion/Home/All DB/Categories/Movie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "personal/TODO.md"
+                "file": "Notion/Home/All DB/Categories/Movie.md"
               }
             }
           }
@@ -145,61 +145,62 @@
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:명령어 팔레트 열기": false,
-      "switcher:퀵 스위처 열기": true,
-      "daily-notes:오늘의 데일리 노트 열기": true,
-      "templates:템플릿 삽입": true,
+      "switcher:퀵 스위처 열기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian42-brat:BRAT": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "da4f0ae976b4e3e7",
+  "active": "5c3766be4fbb0c58",
   "lastOpenFiles": [
-    "developer/Vue/[Vue] markRaw.md",
-    "personal/TODO.md",
-    "personal",
-    "무제 파일.md",
-    "developer/Git/[Git] 이미 업로드 된 파일 및 폴더 gitignore에 추가하기.md",
-    "developer/Vue/[Vue] LifeCycle Hooks.md",
-    "developer/Vue/[Vue] LifeCycle 생명주기.md",
-    "developer/Vue/[Vue] keep-alive의 속성.md",
-    "developer/Vue/[Vue] keep-alive.md",
-    "developer/Vue/[Vue] computed.md",
-    "developer/Vue/[Vue] 커스텀 hook 생성.md",
-    "developer/Vue/[Vue] 이벤트 핸들러 조건처리.md",
-    "design/[PS] 사진 테두리 Blur 처리하기.md",
-    "assets/wallpaper/nothing.webp",
-    "assets/wallpaper/do more.jpeg",
-    "developer/Vue/[Vue] 속성 상속(v-bind)과 커스터마이징.md",
-    "design",
-    "developer/Vue/design.md",
-    "developer/OS/[Mac] zsh 환경 설정.md",
-    "assets/tistory/thumbnail/vue.png",
-    "assets/tistory/thumbnail/~$_thumbnail-creator.pptx",
-    "developer/OS/[Mac] 개발환경 설정.md",
-    "developer/NodeJS/[NPM] npm global 설치 에러.md",
-    "assets/tistory/skin/custom/images/vendor.dd733fdffcb4fac8fb03.js",
-    "assets/tistory/skin/custom/images/script.K1eQzb5l2g5r797j09M2.js",
-    "assets/tistory/skin/custom/images/loading.gif",
-    "assets/tistory/skin/custom/images/kyle.js",
-    "assets/tistory/skin/custom/images/hr-line.png",
-    "assets/tistory/skin/custom/images/app.dd733fdffcb4fac8fb03.js",
-    "assets/tistory/skin/custom/images/2023_profile.png",
-    "assets/tistory/skin/custom/style.css",
-    "assets/tistory/skin/custom/skin.html",
-    "assets/tistory/skin/custom/index.xml",
-    "developer/Vue/[Vue] watch의 추가옵션.md",
-    "developer/CSS/[CSS] Edge와 IE의 input 아이콘 삭제.md",
-    "assets/tistory/thumbnail/private.jpeg",
-    "developer/CSS/[CSS] Flex.md",
-    "developer/Build/[Vite] 디버그 옵션 추가.md",
-    "developer/CSS/[CSS] 이미지 종횡비 1대1로 맞추기.md",
-    "assets/tistory/thumbnail/interview.png",
-    "_template/프로그래머스.md",
-    "assets/tistory/thumbnail/xcode.png",
-    "assets/tistory/thumbnail/sourcetree.png",
-    "developer/DB/[SQL] SQL과 NoSQL의 차이.md",
-    "developer/Git/[Git] SSH Key 생성 및 추가.md",
-    "developer/FE/[FE] ESLint와 TSLint.md"
+    "Notion/Home/All DB/Categories/서울의 봄.md",
+    "Notion/Home/All DB/Categories/Movie.md",
+    "Notion/Home/All DB/Categories/Book.md",
+    "Notion/Home/All DB/Review/당신은 결국 무엇이든 해내는 사람.md",
+    "Notion/Home/All DB/Review/노량.md",
+    "Notion/Home/All DB/Review/괴물.md",
+    "Notion/Home/All DB/Review/2023 푸에르자부르타 웨이라.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 8.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 7.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 6.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 5.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 4.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 3.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기 2.md",
+    "Notion/Home/All DB/Daylog/오늘의 일기.md",
+    "Notion/Home/All DB/Categories/Stage.md",
+    "Notion/Home/Aldente setting/Aldente setting.md",
+    "Untitled 5.png",
+    "Untitled 2 3.png",
+    "Untitled 1 3.png",
+    "Untitled 1 2.png",
+    "Untitled 1.png",
+    "Untitled.png",
+    "Untitled 4.png",
+    "I.app.zip",
+    "Untitled 3.png",
+    "Untitled 2 2.png",
+    "Untitled 2.png",
+    "Notion/Home/All DB/Todo/2024’ W01 2.md",
+    "Notion/Home/All DB/Todo/2024’ W01.md",
+    "Notion/Home/All DB/Todo/2023’ W52.md",
+    "Notion/Home/All DB/Review/콘크리트 유토피아.md",
+    "Notion/Home/All DB/Review/이무진의 별책부록.md",
+    "Notion/Home/All DB/Review/사각형.md",
+    "Notion/Home/All DB/Review/트렌드코리아 2024.md",
+    "Notion/Home/All DB/Review/어쩌면 우린 헤어졌는지 모른다.md",
+    "Notion/Home/All DB/Review/소울메이트.md",
+    "Notion/Home/All DB/Todo",
+    "Notion/Home/All DB/Categories",
+    "Notion/Home/All DB/Review",
+    "Notion/Home/All DB/Daylog",
+    "Notion/Home/All DB",
+    "Notion/Home/DisplayLink setting",
+    "Notion/Home/Dock setting",
+    "Notion/Home/Aldente setting",
+    "Notion/Home/Karabiner key binding"
   ]
 }
