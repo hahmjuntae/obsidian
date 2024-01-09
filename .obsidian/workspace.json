@@ -11,9 +11,27 @@
             "id": "5c3766be4fbb0c58",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notion/Home/Aldente setting/Aldente setting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "fe5025eec5f95bde",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "846f0790c8681dd9",
+            "type": "leaf",
+            "state": {
               "type": "image",
               "state": {
-                "file": "Untitled.png"
+                "file": "Untitled 2.png"
               }
             }
           }
@@ -91,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.png",
+                "file": "Notion/Home/Aldente setting/Aldente setting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.png",
+                "file": "Notion/Home/Aldente setting/Aldente setting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.png"
+                "file": "Notion/Home/Aldente setting/Aldente setting.md"
               }
             }
           }
@@ -137,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,6 +171,10 @@
   },
   "active": "5c3766be4fbb0c58",
   "lastOpenFiles": [
+    "Untitled 2.png",
+    "Notion/Home/Aldente setting/Aldente setting.md",
+    "Untitled.png",
+    "Untitled 1.png",
     "Notion/Home/All DB/Categories/Movie.md",
     "I.app/Contents/Resources/Base.lproj/Main.storyboardc/XfG-lQ-9wD-view-m2S-Jp-Qdl.nib",
     "I.app/Contents/Resources/Base.lproj/Main.storyboardc/NSWindowController-B8D-0N-5wS.nib",
@@ -180,17 +201,13 @@
     "Notion/Home/All DB/Daylog/오늘의 일기 2.md",
     "Notion/Home/All DB/Daylog/오늘의 일기.md",
     "Notion/Home/All DB/Categories/Stage.md",
-    "Notion/Home/Aldente setting/Aldente setting.md",
     "Untitled 5.png",
     "Untitled 2 3.png",
     "Untitled 1 3.png",
     "Untitled 1 2.png",
-    "Untitled 1.png",
-    "Untitled.png",
     "Untitled 4.png",
     "Untitled 3.png",
     "Untitled 2 2.png",
-    "Untitled 2.png",
     "Notion/Home/All DB/Todo/2024’ W01 2.md",
     "Notion/Home/All DB/Todo/2024’ W01.md",
     "Notion/Home/All DB/Todo/2023’ W52.md",
