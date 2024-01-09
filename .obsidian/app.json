@@ -12,7 +12,7 @@
   "focusNewTab": true,
   "livePreview": true,
   "tabSize": 2,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "readableLineLength": false,
   "showInlineTitle": false
 }

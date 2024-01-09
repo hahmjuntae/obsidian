@@ -5,7 +5,8 @@
   "textFontFamily": "LINE Seed Sans KR",
   "translucency": false,
   "enabledCssSnippets": [
-    "backlink-pane-large_size_font"
+    "backlink-pane-large_size_font",
+    "hahmjuntae_obsidian"
   ],
   "cssTheme": "Minimal",
   "theme": "moonstone",
